@@ -24,3 +24,12 @@
 length() 計算一個向量的長度（元素個數）
 
 sample() 隨機抽樣函式
+
+a <- matrix(c(1:6), nrow=3, ncol=2) #建立一個3x2的矩陣，依照column分別填入1~6的值
+
+資料框(data frame)
+
+tmp <- data.frame(Student_ID=c(1,2,3,4,5),
+                  name=c("Helen", "Lun", "Leon", "Kevin", "Tommy"),
+                  score=c(80,36, 88.9, 97.5, 60))
+tmp[4,3]
