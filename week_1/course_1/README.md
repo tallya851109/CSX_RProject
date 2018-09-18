@@ -10,7 +10,7 @@
 
 迴圈指令：for、while、repeat、break、next
 
-  # 語法格式
+#語法格式
   if('條件'){
    '做A'
   }else{
