@@ -33,3 +33,5 @@ tmp <- data.frame(Student_ID=c(1,2,3,4,5),
                   name=c("Helen", "Lun", "Leon", "Kevin", "Tommy"),
                   score=c(80,36, 88.9, 97.5, 60))
 tmp[4,3]
+order()
+grepl()
