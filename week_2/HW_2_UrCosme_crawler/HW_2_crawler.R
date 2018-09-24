@@ -1,3 +1,15 @@
+#We安裝“rvest”包來刮取數據：install.packages（“rvest”）
+
+#Load the library：庫（rvest）
+
+#Load HTML網站：html < -  read_html（“/ rvest-web-scraping-using-r /”）
+
+#Include使用CSS生成器的相關HTML節點：marketingtable < -  html_nodes（html，“。od .column-4，.odd .column-3，.odd .column-2，.odd .column-1，.even .column-4，.even .column-3， .even .column-2，.even .column-1“）
+
+#Determine表長度長度（marketingtable）
+
+#hmport table by html_text functionHTML_TEXT（marketingtable） install.packages("rmarkdown")
+
 # 引入套件
 library(rvest)
 ## Loading required package: xml2
