@@ -25,5 +25,7 @@ week_2任務
 <家裡的進度>
 
 建立 week_2(or task_2, hw_2)的資料夾
-完成UrCosme的網站爬蟲
-
+上網查爬蟲相關資料練習、了解
+完成
+https://www.urcosme.com/tags/36/ranking
+UrCosme的網站爬蟲
