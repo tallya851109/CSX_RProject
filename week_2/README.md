@@ -1,31 +1,18 @@
-week_2課程任務
+<week_2課程任務>
 
-course_2
+。建立一命名為 week_2(or task_2, hw_2)的資料夾。
 
-practice_1.R
-practice_1_answer.R
-practice_2.R
-practice_2_answer.R
-practice_3.R
-crawler_example
-hw_2
+。完成一支網站爬蟲上傳至資料夾中，繳交三種類型檔案(.R, .Rmd, .html)。
 
-hw_2_crawler_example
-PChomeRCrawler.html
-PChomeRCrawler.r
-PChomeRCrawler.Rmd (作業參考)
-hw_2_extra_OOXX_game.R
-week_2任務
+。挑戰作業：完成 OOXX遊戲！！(於 2018/9/26 晚上12點前）
 
-建立一命名為 week_2(or task_2, hw_2)的資料夾。
-完成一支網站爬蟲上傳至資料夾中，繳交三種類型檔案(.R, .Rmd, .html)。
-挑戰作業：完成 OOXX遊戲！！(有時間再寫，完成可以跟大家分享)
-於 2018/9/26 晚上12點前。
+<9.21~9.28家裡的進度>
 
-<家裡的進度>
+。建立 week_2(or task_2, hw_2)的資料夾
 
-建立 week_2(or task_2, hw_2)的資料夾
-上網查爬蟲相關資料練習、了解
-完成
+。上網查爬蟲相關資料練習、了解
+
+。練習老師出的習題
+
+。完成UrCosme的網站爬蟲
 https://www.urcosme.com/tags/36/ranking
-UrCosme的網站爬蟲
