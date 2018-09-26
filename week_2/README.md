@@ -16,3 +16,6 @@
 
 。完成UrCosme的網站爬蟲
 https://www.urcosme.com/tags/36/ranking
+	>>分析問題與目標
+	>>抓取頰彩推薦的化妝品
+	>>了解產品的排名、價錢、推薦指數

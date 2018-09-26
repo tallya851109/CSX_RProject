@@ -1,14 +1,10 @@
 ---
-title: "Urcos"
-output:
-  html_document: default
-  pdf_document: default
+title: "Untitled"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
-library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
-
 ```
 
 ## R Markdown
@@ -19,7 +15,6 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
-kable(cars)
 ```
 
 ## Including Plots

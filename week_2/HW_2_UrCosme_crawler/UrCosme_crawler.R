@@ -18,37 +18,53 @@ ranking_cosmetic <- read_html(html_li)
 #ranking_cosmetic <- read_html("https://www.urcosme.com/tags/36/ranking")
 
 # 抓產品名
-product <- ranking_cosmetic %>% 
+product_list <- ranking_cosmetic %>% 
   html_nodes(".single-dot") %>% 
   html_text()
-as.numeric()
-product
-product <- paste0(".single-dot" , product)
-View(product)
+length(product_list)
+product_list
+
+product_list <- paste0(".single-dot" , product)
+View(product_list)
 
 # 抓價錢、日期
-money <- ranking_cosmetic %>% 
+money_list <- ranking_cosmetic %>% 
   html_nodes(".product-market-date , span+ span") %>%
   html_text()
-money
-money <- paste0("product-market-date , span+ span" , money)
-View(money)
+length(money_list)
+money_list
+
+##去除資料  
+#money_list<-gsub(" "｜" "","",money_list)
+
+money_list <- paste0("product-market-date , span+ span" , money)
+View(money_list)
 
 
 # 評價
-score <- ranking_cosmetic %>% 
-  html_nodes(".product-score-text , .brand-name .uc-minor-link") %>%
+score_list <- ranking_cosmetic %>% 
+  html_nodes(".product-score-text , .brand-name ") %>%
   html_text()
-score
+as.numeric()
+length(score_list)
+score_list
 
 # 抓圖
-poster <- ranking_cosmetic %>%
+poster_list <- ranking_cosmetic %>%
   html_nodes(".img-auto-center ") %>%
   html_attr("src")
-poster
+poster_list
 
-news_li <- data.frame("評價"= score, "產品"= product, "價錢、日期"=money, "圖片"=poster)
-View(news_li)
+#news_li <- data.frame("評價"= score, "產品"= product, "價錢、日期"=money, "圖片"=poster)
+#View(news_li)
+#paste(product_list, money_list, score_list,sep="")
+
+##長度不同不能合起來
+colnames(df_cosmetic)<-c("產品","價格","分數","圖片")
+df_cosmetic = data.frame(product_list, money_list, score_list)
+df_cosmetic
+
+
 
 #排序 評價 產品 價位 圖片 列成一列
 
