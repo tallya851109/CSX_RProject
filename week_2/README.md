@@ -19,3 +19,5 @@ https://www.urcosme.com/tags/36/ranking
 	>>分析問題與目標
 	>>抓取頰彩推薦的化妝品
 	>>了解產品的排名、價錢、推薦指數
+
+https://tallya851109.github.io/CSX_RProject/week_2/HW_2_UrCosme_crawler/UrCosme_crawler.html
