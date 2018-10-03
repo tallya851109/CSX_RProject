@@ -11,9 +11,12 @@
 
 。基本畫圖練習(選定資料視覺化)
 
-。練習老師出的習題ggplot2Example
+。自己練習老師上課教的ggplot2圖表
 
 。完成一份資料視覺化
 
 。完成加分任務(地圖視覺化 + ggplot2)
+
+早餐店資料視覺化：
+https://tallya851109.github.io/CSX_RProject/week_3/早餐店資料視覺化.html
 
