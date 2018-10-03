@@ -15,7 +15,10 @@
 
 。完成一份資料視覺化
 
-。完成加分任務(地圖視覺化 + ggplot2)
+。試著做加分任務(地圖視覺化 + ggplot2)，shp但資料讀不到，還在研究
+
+自己練習：
+https://tallya851109.github.io/CSX_RProject/week_3/練習.html
 
 早餐店資料視覺化：
 https://tallya851109.github.io/CSX_RProject/week_3/早餐店資料視覺化.html
