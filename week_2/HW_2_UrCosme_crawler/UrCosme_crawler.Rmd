@@ -1,28 +1,66 @@
 ---
-title: "Untitled"
+title: '123'
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+分析的網頁
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r}
+library(httr)
+library(rvest)
+html_li <- "https://www.urcosme.com/tags/36/ranking"
+ranking_cosmetic <- read_html(html_li)
 ```
 
-## Including Plots
+抓產品名
+```{r}
+product_list <- ranking_cosmetic %>% 
+  html_nodes(".single-dot") %>% 
+  html_text()
 
-You can also embed plots, for example:
+product_list
+product_list_new <- c()
+for (i in 1:length(product_list)) {
+  if (i %% 2 == 1) {
+    product_list_new <- c(product_list_new, product_list[i])
+  }
+}
+length(product_list_new)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+product_list_new <- paste0(".single-dot" , product_list)
+#View(product_list_new)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+抓價錢
+```{r}
+money_list <- ranking_cosmetic %>% 
+  html_nodes(".uc-tag-ranking-item:nth-child(11) span , .uc-tag-ranking-item:nth-child(9) span , .uc-tag-ranking-item:nth-child(5) span , .uc-tag-ranking-item:nth-child(2) span , span~ span+ span") %>%
+  html_text()
+
+money_list
+
+length(money_list)
+```
+
+評價
+```{r}
+score_list <- ranking_cosmetic %>% 
+  html_nodes(".urcosme-heart-full~ .product-score-text") %>%
+  html_text()
+as.numeric()
+length(score_list)
+score_list
+```
+
+抓圖
+```{r}
+poster_list <- ranking_cosmetic %>%
+  html_nodes(".img-auto-center ") %>%
+  html_attr("src")
+poster_list
+length(poster_list)
+```
+

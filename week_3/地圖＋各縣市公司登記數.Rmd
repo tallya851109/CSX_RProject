@@ -1,0 +1,65 @@
+---
+title: "地圖＋各縣市公司登記數"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+匯入政府公開資料（各縣市現有公司登記家數）
+```{r }
+#library(readr)
+
+#確定編碼
+#mydata <- read_csv("Desktop/CSX_RProject/week_3/201808.csv", encoding="big5")#read csv file 
+#mydata <- iconv(data, "big5", "utf8") 
+#View(mydata)
+#mydata
+```
+
+整理原始資料
+```{r}
+#temp=matrix(unlist(mydata),nrow=3,byrow=T)
+
+#ggplot(data=mydata,aes( x=現有公司登記家數))+
+#  geom_bar(fill="lightblue",color="black")
+
+#DataCo.Frame<-as.numeric(mydata$現有公司登記家數)
+#DataCo.Frame$latitude<-as.numeric(mydata$縣市別)
+```
+ggmap 套件中的 get_map 函數下載地圖（直接輸經緯度）
+## Including Plots
+```{r}
+#library(ggmap)
+#twmap <- get_map(center =c(lon=120.58,lat=23.58), zoom = 50,language = "zh-TW",maptype="roadmap"  )
+#ggmap(twmap)
+
+#newmap<-ggmap(twmap)+ #ggmap
+#  geom_polygon(data = mydata,  #面量圖
+#               aes(x = long, y = lat, group = group, fill = prevalence, 
+#               color = "現有公司登記家數", size = 0.1,alpha = 0.5) + 
+#  scale_colour_continuous(low='yellow',high='red'))
+
+library(ggplot2) 
+library(rgdal)#for fortify()
+library(rgeos) #for fortify()
+library(maptools) #for readShapeSpatial()
+
+```
+set the shapefile
+
+```{r}
+#setwd("＊＊＊/Desktop")
+#states.shp <- readShapeSpatial("TOWN_MOI_1070516.shp")
+#class(states.shp)
+#tw_new <- read.table("Desktop/TOWN_MOI_1070516.shp",header=TRUE,sep=",") 
+#x <- readShapePoly(file.choose(TOWN_MOI_1070516.shp))
+#head(tw_new$Town_ID)
+#tw_new.df <- 
+#  fortify(tw_new, region = "County_ID") 
+#head(tw_new.df,10)
+```
+

@@ -1,0 +1,72 @@
+---
+title: "練習"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+iris的圖表練習
+```{r cars}
+library(ggplot2)
+#匯入資料
+iris
+#理解資料
+View(iris)
+i=iris
+#型態轉換
+temp=matrix(unlist(iris),nrow=150,byrow=T)
+summary(temp)
+#畫圖
+ggplot(data=i,aes( x=Species))+
+  geom_bar(fill="lightblue",color="black")
+summary(cars)
+```
+
+## Including Plots
+Choropleth map面量圖
+
+```{r}
+library(choroplethr)
+data(df_pop_state) #記載各州人口數的資料
+state_choropleth(df_pop_state) #把各州人口畫在地圖上
+data(continental_us_states)
+#state_choropleth(df_pop_state,reference_map = TRUE,
+#zoom= continental_us_states) #把各州人口畫在地圖上
+```
+
+
+
+
+
+直方圖
+```{r}
+my.plot <- ggplot(diamonds, aes(carat, price, colour = cut))
+my.plot <- my.plot + layer(
+  geom = "point",
+  stat = "identity",
+  position = "identity",
+  params = list(na.rm = FALSE)
+)
+
+my.plot2 <- ggplot(diamonds, aes(x = carat))
+my.plot2 <- my.plot2 + layer(
+  geom = "bar",
+  stat = "bin",
+  position = "identity",
+  params = list(
+    fill = "steelblue",
+    binwidth = 0.2,
+    na.rm = FALSE
+  )
+)
+my.plot2
+
+
+```
+
+
+
+
