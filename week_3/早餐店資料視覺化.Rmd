@@ -76,7 +76,8 @@ ggplot( data = SalesTableSum,
        y = 'Sales in total',
        fill = 'Client_Name') + theme_bw()
 ```
-整合起來看，我們就能知道每個客戶主要都購買哪些產品，也反映出前四個客戶佔了絕大部分的銷售額
+
+整合起來看，我試著知道每個客戶主要都購買哪些產品，也反映出前四個客戶佔了絕大部分的銷售額
 ```{r}
 SalesTableClient <- SalesTableNew %>%
   group_by(Client_Name, Product_Name) %>%
