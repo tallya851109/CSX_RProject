@@ -1,0 +1,4448 @@
+
+" ⼩￿學 "," 臺北市中正區公園路￿ 29 
+
+號 ","o_tlc_agency_phone":"(02)2311-0395","o_tlc_agency_purpose 
+
+":" 培育⽂￿采有品   領袖群倫￿的附⼩￿兒  ( ⼀￿ ) 倡導前瞻的領導理￿念￿，落￿實推動教育政 
+
+策。  ( ⼆￿ ) 建立專業的領導團隊，發揮組織整體效能。   ( 三 ) 重視系統的領導歷程， 
+
+提升教育全⾯￿品質。   ( 四 ) 展現卓越的領導績效，創造教育永續發 
+
+展。 ","o_tlc_agency_email":"http:\/\/web.estmue.tp.edu.tw\/ 
+
+php\/email.php\/ 
+
+%E6%96%B9%E6%85%A7%E7%90%B4","o_tlc_agency_name":" 臺北市立⼤￿學附 
+
+設實驗國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2331-0319","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育局 ","o_tlc_agency_service":" 教育 7~12 歲幼 
+
+童 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_507_4406609_56101.jpg","_id": 
+
+1,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 平⽇￿： 
+
+0730 ～ 1700 假⽇￿： 0800 ～ 1600","o_tlc_agency_region":"11"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.tmps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_508_6117032_55581.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區仁愛路￿ 1 段 2 之 4 
+
+號 ","o_tlc_agency_phone":"(02)2341-2822","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中正區東 
+
+⾨￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":" 臺北市政 
+
+府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_508_1937618_55581.jpg","_id": 
+
+2,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl 
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ches.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市中正區忠孝東路￿ 2 段 101 
+
+號 ","o_tlc_agency_phone":"(02)2391-8170","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中正區忠 
+
+孝國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":" 臺北市政 
+
+府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"","_id 
+
+": 
+
+3,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl 
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.nmes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_510_2284290_84049.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區廣州街 6 
+
+號 ","o_tlc_agency_phone":"(02)2371-5052","o_tlc_agency_purpose 
+
+":" 學校以發展快樂校園、健康校園、實⼒￿￿校園為學⽣￿學習課程的重點學 
+
+校。 ","o_tlc_agency_email":"nanmem@mail.nmes.tp.edu.tw","o_tlc_ 
+
+agency_name":" 臺北市中正區南⾨￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2331-7822","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育局 ","o_tlc_agency_service":" 南⾨￿國⼩￿學⽣￿及家長 
+
+相關之所有業務 ","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_510_6027268_65699.jpg","_id": 
+
+4,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"8 點⾄￿ 16 
+
+點 ","o_tlc_agency_region":"11"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.meps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_511_3945988_96172.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區南海￿路￿ 58 
+
+號 ","o_tlc_agency_phone":"(02)2303-3555","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市國語實驗 
+
+國⺠￿⼩￿學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":" 臺 
+
+北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_511_395729_96172.jpg","_id": 
+
+5,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl 
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.cips.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_512_3498379_69936.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區中華路￿ 2 段 307 巷 17 
+
+號 ","o_tlc_agency_phone":"(02)2303-8752","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中正區忠 
+
+義國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2305-9501","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_512_1157498_69936.jpg","_id": 
+
+6,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yces.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_513_5851221_58038.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區詔安街 29 
+
+號 ","o_tlc_agency_phone":"(02)2305-4620","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中正區螢 
+
+橋國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2309-5753","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_513_2890092_58038.jpg","_id": 
+
+7,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl 
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.fuanps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_age 
+
+ncy_address":" 臺北市⼠￿林￿區延平北路￿ 8 段 135 
+
+號 ","o_tlc_agency_phone":"(02)2810-0041","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區富 
+
+安國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+83,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.htps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_514_8341245_90464.jpg","o_tlc_agency_address":" 臺北市中正 
+
+區汀州路￿⼆￿段 180 號 ","o_tlc_agency_phone":" （ 02 ） 
+
+23677144","o_tlc_agency_purpose":"","o_tlc_agency_email":"","o 
+
+_tlc_agency_name":" 臺北市中正區河堤國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":" （ 02 ） 
+
+2368-5438","o_tlc_agency_admincategory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_514_6133145_91019.jpg","_id": 
+
+8,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_tl 
+
+c_agency_region":"11"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+web.tpes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_515_1010338_62233.jpg","o_tlc_agency_address":" 臺北市⼤￿同
+
+區延平北路￿ 2 段 239 
+
+號 ","o_tlc_agency_phone":"(02)2553-2229","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區太 
+
+平國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2557-5746","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_515_5848674_62233.jpg","_id": 
+
+9,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 每週⼀￿ ~ 
+
+⽇￿  05:00~07:00 每週⼀￿ ~ 五  16:30~20:00","o_tlc_agency_region":"5"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.ylps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_516_5921303_21937.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區延平北路￿ 2 段 266 
+
+號 ","o_tlc_agency_phone":"(02)2553-4882#103","o_tlc_agency_pur 
+
+pose":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同 
+
+區永樂國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2550-6756","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_516_234192_21937.jpg","_id": 
+
+10,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.zhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_517_1938551_08394.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區太原路￿ 151 
+
+號 ","o_tlc_agency_phone":"(02)2558-4819","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區⽇￿ 
+
+新國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2556-4092","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_517_2616960_08394.jpg","_id": 
+
+11,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.plps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_518_3299801_57262.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區寧夏路￿ 35 
+
+號 ","o_tlc_agency_phone":"(02)2556-9835","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區蓬 
+
+萊國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2555-2055","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_518_8236390_57262.jpg","_id": 
+
+12,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" ⼾￿外運 
+
+動場、籃球場、⼾￿外體適能區、遊戲區、⼾￿外歷史步道區 ( ⽩￿天 )  平⽇￿、寒暑假   
+
+05:30~07:00  例￿、假⽇￿  05:30~19:00 ⼾￿外運動場、籃球場、⼾￿外體適能區、遊戲 
+
+區、⼾￿外歷史步道區 ( 夜間 ) 星期⼆￿、四、六、⽇￿   
+
+19:00~21:00","o_tlc_agency_region":"5"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.tjps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_519_5748228_57052.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區重慶北路￿ 3 段 2 
+
+號 ","o_tlc_agency_phone":"(02)2594-4413","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區⼤￿ 
+
+橋國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2595-2481","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_519_1920089_95285.jpg","_id": 
+
+13,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.sles.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_520_8298211_16040.png","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區錦⻄￿街 51 
+
+號 ","o_tlc_agency_phone":"(02)2557-0309","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區雙 
+
+蓮國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2553-4840","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_520_8183417_44633.jpg","_id": 
+
+14,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.tlps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_568_2971185_16393.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區艋舺⼤￿道 389 
+
+號 ","o_tlc_agency_phone":"(02)2306-4311","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區⼤￿ 
+
+理￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2304-2393","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_568_3084875_16393.jpg","_id": 
+
+54,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ttps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_521_2033006_75185.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區⼤￿龍街 51 
+
+號 ","o_tlc_agency_phone":"(02)2596-5407","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"chichi@tp.edu.tw","o_tlc_agency_nam 
+
+e":" 臺北市⼤￿同區⼤￿同國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2585-0281","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_521_3527629_75046.jpg","_id": 
+
+15,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 校園開 
+
+放時間：週⼀￿到週五： 05:00-07:00     17:30-21:30 週六、⽇￿： 
+
+05:00-21:30","o_tlc_agency_region":"5"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.dlps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_523_4097293_80411.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區哈密街 47 
+
+號 ","o_tlc_agency_phone":"(02)2594-2635","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區⼤￿ 
+
+龍國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2585-0245","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_523_8057559_80466.jpg","_id":
+
+16,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ypps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_524_3369443_75628.jpg","o_tlc_agency_address":" 臺北市⼤￿同 
+
+區昌吉街 97 
+
+號 ","o_tlc_agency_phone":"(02)2594-2439","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿同區延 
+
+平國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2585-0485","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_524_2995021_75677.jpg","_id": 
+
+17,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"5"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.csps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_525_6595619_84389.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區⺠￿權東路￿ 1 段 69 
+
+號 ","o_tlc_agency_phone":"(02)2591-4085","o_tlc_agency_purpose 
+
+":" ⼀￿、積極做全⽅￿位努⼒￿￿，使中⼭￿成為優質學校。校長榮獲 96 年￿教育部校長領導卓 
+
+越獎及 96 學年￿優質學校校長領導獎，理￿念￿明確，能帶領學校加速走向進步發展。⼆￿、 
+
+建立現代化企業化的⾏￿￿政管理￿，以「 e 化管理￿」為主軸，統整知識管理￿、品質管理￿、 
+
+績效管理￿的⾏￿￿政體制，榮獲 97 學年￿度優質學校⾏￿￿政管理￿向度之獎項。   三、重視教師 
+
+教學品質，已連續三年￿推動「教師專業發展評鑑」及「教學輔導老師」機制，⽽￿通過 
+
+「發展性教學輔導系統初階」之教師達 117 ⼈￿，通過⾼￿階的達 29 ⼈￿，⼤￿幅提昇本校的 
+
+教師素質，進⽽￿提昇教師之教學品質，成為台北市試辦教師專業發展評鑑的領頭⽺￿。   
+
+四、注重學⽣￿之品德教育，⼤￿⼒￿￿推展「友善校園」計畫，並⾃￿⾏￿￿設計品德教育學習 
+
+單，結合綜合課程，實施品德教育。   五、本校為特殊教育之重點學校，設有⾃￿⾜￿式 
+
+特教班 7 班，⾝￿障資源班 3 班，資優資源班 3 班。除注重學⽣￿之發展外，並與各教育⼤￿ 
+
+學合作，提供實習機會，培育未來￿的特教教師。   六、本校重視對學⽣￿的⽣￿活照顧， 
+
+除協助辦理￿政府或⺠￿間單位之補助外，本校成立了￿「仁愛基⾦￿￿」、「健保補助⾦￿￿」、 
+
+「清寒獎助⾦￿￿」、「特教清寒課後基⾦￿￿」、「特教愛⼼￿基⾦￿￿」等六項基⾦￿￿，教師及積 
+
+極關懷學⽣￿，發現⽣￿活有困難者，即時提出申請並儘速給予所需的協助。   七、本校 
+
+夜補校有⼆￿⼗￿年￿歷史   ，⽬￿前有七班，重點在加強新移⺠￿及失學⺠￿眾之國語⽂￿與常識 
+
+教學，⾃￿ 97 學年￿度起更￿開設電腦課，帶領⺠￿眾邁向 e 化的時代。   八、以體育為學校發 
+
+展重點項⽬￿，發展網球籃球⽻￿球⾜￿球之體育綜合團隊；成立體育班四班，加強體育專 
+
+長學⽣￿之訓練，陪養國家的種⼦￿⼈￿才。   九、加強國語⽂￿、數學、資訊等⼯￿具學科之 
+
+教學；加強視覺藝術、⾳￿樂教育、社團活動等課程，本校⼝￿琴樂團遠近馳名，有⼆￿⼗￿ 
+
+五年￿歷史；網球隊已於北市比賽獲 27 連霸；⾜￿球、⽻￿球、籃   球等也急起直追嶄露頭
+
+⾓￿。⼗￿、著重學校⽂￿化改造、社會資源統整、校園總體營造之進⾏￿￿， 97 年￿完成優質化 
+
+⼯￿程及專科教室精進⽅￿ 
+
+案。 ","o_tlc_agency_email":"case@csps.tp.edu.tw","o_tlc_agency_ 
+
+name":" 臺北市中⼭￿區中⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2592-9964","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育局 ","o_tlc_agency_service":" ⼩￿學教育、成⼈￿補 
+
+校 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_525_4228225_84335.jpg","_id": 
+
+18,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"7 ： 
+
+00-18 ： 00","o_tlc_agency_region":"10"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.caps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_526_7193173_11052.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區吉林￿路￿ 15 
+
+號 ","o_tlc_agency_phone":"(02)2561-7600","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區長 
+
+安國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2521-1589","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育 
+
+局 ","o_tlc_agency_service":"","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_526_9872854_11052.jpg","_id": 
+
+19,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.clps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_527_8613605_51065.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區長春路￿ 116 
+
+號 ","o_tlc_agency_phone":"(02)2521-9196","o_tlc_agency_purpose 
+
+":"1. 　以學⽣￿為中⼼￿以愛為出發點。 2. 　以教學為⾸￿要提升教學效能。 3. 　實施多 
+
+元教學推展多元評量￿。 4. 　充實圖書資訊豐富教學專業。 5. 　營造創意校園強化潛在 
+
+課程。 6. 　課程教學領導發揮教學專業。 7. 　建立學習組織優化學習風氣。 8. 　推 
+
+展多元團隊成就多元明星。 9. 　合宜輔導體制帶好每位兒童。 10. 　強化特殊教育提 
+
+供適切學習。 11. 　活潑幼稚教育快樂健康成長。 12. 　⼈￿性領導經營創發團體動 
+
+⼒￿￿。 13. 　合宜公共關係廣納社會資源。 14. 　推展家庭教育⽗￿⺟￿多元成長。 15. 　開 
+
+放學校場地學校社區融 
+
+合。 ","o_tlc_agency_email":"lotus@tp.edu.tw","o_tlc_agency_name 
+
+":" 臺北市中⼭￿區吉林￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2561-8868","o_tlc_agency_admincate 
+
+gory":" 臺北市政府教育局 ","o_tlc_agency_service":"1. 　培養兒童了￿解⾃￿
+
+我、尊重與欣賞他⼈￿及不同⽂￿化之情懷。 2. 　注重領域教學、⾝￿⼼￿健康鍛鍊￿，並增進 
+
+⽣￿活必需之基本知能。 3. 　樹立正確價值觀念￿，培養愛家、愛鄉⼟￿、愛國家的新世紀 
+
+兒童。 4. 　培養表達、獨立思考、與⼈￿溝通、團隊合作、負責守法之素養。 5. 　著重 
+
+品德涵養、⽂￿化陶冶及藝術欣賞，變化學⽣￿氣質。 6. 　營造多元學習環境，培養主動 
+
+學習、終⾝￿學習之能⼒￿￿。 7. 　培養勇於嘗試、積極創新之精神，解決問題、創造思考 
+
+之能⼒￿￿。 8. 　實施藝術、ｅ化、閱讀，多元的特⾊￿課程，充實學習內涵。 9. 　重視資 
+
+訊科技、多語⽂￿的學習，適應現代社會並與國際接軌。 10. 　推動關懷的特殊教育， 
+
+積極照顧弱勢家庭學⽣￿，使能適性發 
+
+展。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_527_138610_51065.jpg","_id": 
+
+20,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 平常上 
+
+課⽇￿：早上 5:00~7:00 ；下午 5:30~10:00 ，開放運動場供⺠￿眾使⽤￿。上課期間以學 
+
+⽣￿活動為主，不對外開放。 ","o_tlc_agency_region":"10"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.tzes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_528_9158227_85389.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區⼤￿直街 2 
+
+號 ","o_tlc_agency_phone":"(02)2533-3953","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區⼤￿ 
+
+直國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2533-3102","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_528_9996089_85799.jpg","_id": 
+
+21,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.bjes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_529_6504462_07301.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區樂群⼆￿路￿ 266 巷 99 
+
+號 ","o_tlc_agency_phone":"(02)8502-1571","o_tlc_agency_purpose 
+
+":" 設校理￿念￿：本校教育政策分述如下 ( ⼀￿ ) 學校課程⾃￿主化：尊重教育專業，依據學 
+
+校、社區、學⽣￿的需要，透過學校課程⾃￿主，⿎￿勵多元參￿與，共同學習，接合學校同 
+
+仁、社區及家長會⼒￿￿量￿共謀校務的創新與發展。 ( ⼆￿ ) 學習型態多樣化：以班群教學、 
+
+⼩￿組討論、分站學習等⽅￿式，進⾏￿￿團體學習或個別學習，運⽤￿各種教學媒體及資訊網 
+
+路￿，提供多樣的教學、多元的學習場所及多種的學習型態，讓教學⽣￿動活潑，提升學 
+
+⽣￿學習成效。 ( 三 ) 教材內容統整化：配合九年￿⼀￿貫統整課程、期使教材內容⽣￿活化， 
+
+掌握社會脈動，重視本⼟￿⽂￿化、國際化教學趨勢，豐富教學內涵。 ( 四 ) 學習空間彈性 
+
+化：配合教學活動需要，以彈性隔間、組合式課桌椅、學習區組合、⼤￿型活動空間及 
+
+⼾￿外活動劇場等規劃，充分彈性靈活運⽤￿，增進教學品質。 ( 五 ) 校園設施⼈￿性化：本
+
+著教育性、安全性及⼈￿性化之校園規劃原則，以尊重「⼈￿」的經營理￿念￿，提供無障礙 
+
+之教育情境，創造校園安全和諧。 ( 六 ) 教育經營社區化：學校建築配合周圍環境，運 
+
+⽤￿社區之資源進⾏￿￿教學活動，達成與社區資源共享，促進學校與社區之緊密結合。學 
+
+校教育理￿念￿、⽬￿標與策略￿： ( ⼀￿ ) 教育理￿念￿ 1.  尊重學⽣￿學習的主體性、⾃￿主性與創造 
+
+性。 2.  提供精緻化學習環境，發展學⽣￿多元智能。 3.  營造學習型組織氣氛，共塑 
+
+學校發展特⾊￿。 4.  推動資源共享，結合社區資源，共創教育新機。 ( ⼆￿ ) 教育⽬￿標 1.  
+
+啟發潛能的快樂學習，培育具備基本能⼒￿￿。 2.  ⾃￿動⾃￿發的⾃￿主學習，發展創造思考 
+
+能⼒￿￿。 3.  激勵多元智慧的總體學習，建立良好⼈￿際互動。 4.  培養勤￿學習、能活 
+
+⽤￿、善表達、肯負責的好孩⼦￿。 5.  我們努⼒￿￿的⽬￿標 — 學⽣￿歡喜上學，愛上學校，員⼯￿ 
+
+樂在⼯￿作，家長熱忱參￿與，各界肯定學校。 ( 三 ) 策略￿ 1.  倡導校園⺠￿主倫￿理￿，共塑學 
+
+校之發展願景。 2.  強調全⼈￿格之發展，快樂學習與建康成長。 3.  尊重兒童學習主 
+
+體，設計適性的教育過程。 4.  推動課程統整觀念￿，兼顧班群與合作學習。 5.  重視 
+
+資訊科技應⽤￿，開括本⼟￿與國際視野。 6.  營造溝通對話空間，尊重個性與群體發 
+
+展。 7.  慎密思考價值判斷，培養解決問題的能⼒￿￿。 8.  重視教師專業研究，研發學 
+
+校課程與教材。 9.  建立終⾝￿學習理￿念￿，奠定社區教育化基礎。 ( 更￿新⽇￿期： 
+
+20100224)","o_tlc_agency_email":"public@bjes.tp.edu.tw","o_tlc 
+
+_agency_name":" 臺北市中⼭￿區濱江國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)8501-1146","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 幼兒園   ⼩￿學教 
+
+育 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_529_2411475_06540.jpg","_id": 
+
+22,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yaes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_530_6822997_99268.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區明⽔￿路￿ 397 巷 19 弄￿ 1 
+
+號 ","o_tlc_agency_phone":"(02)2533-5672","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區永 
+
+安國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)8509-1863","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_530_4653811_99268.jpg","_id": 
+
+23,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.djes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_531_9875006_42083.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區濱江街 107 
+
+號 ","o_tlc_agency_phone":"(02)2503-5816","o_tlc_agency_purpose
+
+":" 本校同仁以⼼￿教育為施教的核⼼￿，⽤￿最新的教育理￿念￿及最⼤￿的愛⼼￿與耐⼼￿，以⽣￿ 
+
+活教育為中⼼￿，實施正常的國⺠￿教育，培育品德⾼￿尚、體格健壯、術藝兼修之堂堂正 
+
+正的好國⺠￿為⽬￿的。為達此⽬￿的，除依課程標準及上級實施開放教育之政策，確實執 
+
+⾏￿￿外，並採親師合作規劃各項學藝及體能活動，使本校學童之⾝￿⼼￿能順利￿的正常發 
+
+展。本校特⾊￿有以下⼗￿項：⼀￿、校園綠化有成。⼆￿、⼩￿班精緻教學。三、⾃￿辦學童午 
+
+餐。四、強化⽣￿活課程。五、發揚⺠￿俗技藝。六、推廣⽣￿活美語。七、提倡多元社 
+
+團。八、重視體能鍛鍊￿。九、深耕閱讀。⼗￿、舉辦校際交 
+
+流。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區⼤￿ 
+
+佳國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2861-6126","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" ⼩￿學教育與幼兒教 
+
+育。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_531_6589783_28881.jpg","_id": 
+
+24,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 周⼀￿⾄￿ 
+
+周五 7 ： 00~18 ： 00","o_tlc_agency_region":"10"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.wcps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_532_324044_01153.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區五常街 16 
+
+號 ","o_tlc_agency_phone":"(02)2502-3416","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區五 
+
+常國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2502-0992","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_532_1609492_01153.jpg","_id": 
+
+25,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ccps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_533_5880984_70458.jpg","o_tlc_agency_address":" 臺北市中⼭￿ 
+
+區長春路￿ 165 
+
+號 ","o_tlc_agency_phone":"(02)2502-4366","o_tlc_agency_purpose 
+
+":" 本校位於市中⼼￿之商業區，學校與家長通⼒￿￿合作，積極爭取相關經費美化綠化校 
+
+園、增設與改善軟硬體設施，期能共同營造安全、快樂，富有⼈￿⽂￿氣息的優質學習環 
+
+境。⽬￿前設有⾃￿然、⾳￿樂、視覺藝術、英語、電腦與圖書等專科教室及屋頂教材園， 
+
+使學⽣￿有充分的學習內涵及教學資 
+
+源。 ","o_tlc_agency_email":"shyhjer@m3.ccps.tp.edu.tw","o_tlc_a 
+
+gency_name":" 臺北市中⼭￿區長春國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2506-5860","o_tlc_agency_admincate
+
+gory":"","o_tlc_agency_service":" 本校在歷任校長和教職員⼯￿的努⼒￿￿經營 
+
+及家長會的全⼒￿￿⽀￿持下，校風穩健踏實、學習環境優質，在中⼭￿區是⼀￿所家長信賴、 
+
+學⽣￿喜歡的理￿想學校。 ","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_533_2459145_70438.jpg","_id": 
+
+26,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 上班⽇￿ 
+
+上午八時⾄￿下午四時。 ","o_tlc_agency_region":"10"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.jjes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市中⼭￿區龍江路￿ 62 
+
+號 ","o_tlc_agency_phone":"(02)2507-0932","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市中⼭￿區中 
+
+正國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+27,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"10"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.msps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_536_9340193_22910.jpg","o_tlc_agency_address":" 臺北市松⼭￿ 
+
+區敦化北路￿ 199 巷 18 
+
+號 ","o_tlc_agency_phone":"(02)2712-2452","o_tlc_agency_purpose 
+
+":" 本校位於臺北市⺠￿⽣￿社區⽂￿教⽣￿活圈，社區資源充沛，創校以來￿社區發展迅速， 
+
+帶動學校學⽣￿額滿趨勢，學校校園⽂￿化和諧、教師專業發展傑出、親師非常⽤￿⼼￿合 
+
+作，開拓￿豐富的教育資源提供教與學，創造出具⼝￿碑￿的⺠￿⽣￿⽂￿ 
+
+化。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市松⼭￿區⺠￿ 
+
+⽣￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2718-0657","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_536_942945_22910.jpg","_id": 
+
+28,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"9"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mcps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_537_9642292_84081.jpg","o_tlc_agency_address":" 臺北市松⼭￿ 
+
+區⺠￿權東路￿ 4 段 200 
+
+號 ","o_tlc_agency_phone":"(02)2765-2327","o_tlc_agency_purpose 
+
+":" 本校位處向稱臺北市模範社區⺠￿⽣￿社區的本校，因地利￿之便￿⽽￿營造出與社區融為 
+
+⼀￿體的環境優美校園，近年￿來￿更￿得⼒￿￿於家長志⼯￿團協助，致⼒￿￿於美化、綠化，使校園 
+
+綠意盎然、繁花似錦，成為令⼈￿⼼￿曠神怡的學習園地。從建校的多元⾃￿由校風迄今發
+
+展為建構 “ 多元、活⼒￿￿、前瞻、卓越 „  之學校願景，追求精實優質的教學⽬￿標，豐富 
+
+的社團學習活動融合於總體課程中，提供孩⼦￿們更￿多元、更￿寬廣、更￿縱深的學習機 
+
+會，使本校教學成效優良，校友們在往後升學及社會各領域均有極佳表 
+
+現。 ","o_tlc_agency_email":"chi7545@gmail.com","o_tlc_agency_na 
+
+me":" 臺北市松⼭￿區⺠￿權國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)27658336","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":" （⼀￿）建構「多元、活⼒￿￿、前瞻、卓越」 
+
+之學校願景，追求優質的教育⽬￿標；豐富的社團學習活動融合於總體課程之中，提供 
+
+兒童更￿具廣度與深度的學習為⽬￿的，⼈￿⼈￿能依照⾃￿⼰￿的興趣、性向發展個⼈￿專長。 
+
+（⼆￿）校內有多元的社團活動，包含國樂、管樂、絃樂、直笛、合唱等⾳￿樂社團；⽥￿ 
+
+徑隊、游泳隊、⽻￿球隊、桌球隊、網球隊等體育社團；另有天⽂￿社、圍棋社、幼童軍 
+
+團、幼女童軍團等多元才藝社團，讓學⽣￿的學習多元，透過豐富的社團活動，探索⾃￿ 
+
+⼰￿的興趣。（三）重視⽣￿活教育、德育教育及⽣￿命教育，規畫以綜合學習領域統合 
+
+之，組成「⽣￿命教育⼯￿作坊」，進⾏￿￿教育研究並付諸於⽇￿常教學中。（四）推動書香 
+
+校園活動，如：閱讀悅讀護照、讀詩樂樂讀詩、班級導讀、圖書室利￿⽤￿教育、晨讀⼗￿ 
+
+分鐘等相關活動，⿎￿勵孩⼦￿⼤￿量￿閱讀課外讀物。 99 學年￿度、 100 學年￿度獲選為臺北市 
+
+讀報種⼦￿學校，營造校內讀報環境，組成「擁報樂趣多」專業社群，成立⺠￿權讀報電 
+
+臺，努⼒￿￿提升校內閱讀風氣，以增進學⽣￿的語⽂￿能⼒￿￿。（五）與家長與社區互動和 
+
+諧，志⼯￿團體參￿與⼈￿數眾多。另外，各班級設置班親會，與級任老師在班級教學事務 
+
+及校外教學活動緊密互動，適時提供協助。「社區管樂團」春秋⼆￿季於中⼭￿堂、國家 
+
+⾳￿樂廳辦理￿⾳￿樂會活動，由校長擔任副團長，管樂團指導老師擔任指揮，每年￿五⽉￿有 
+
+「⺟￿親節才藝展演會」，提供學⽣￿展現⾃￿⼰￿的舞臺，廣邀家長與社區⺠￿眾觀賞，達成 
+
+與社區資源共享。（六）體育社團蓬勃發展，積極辦理￿各種單項體育競賽，並參￿加⽻￿ 
+
+球、桌球、網球、⽥￿徑、游泳、樂樂棒球、健康操等市級及全國競 
+
+賽。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_537_1719593_84081.jpg","_id": 
+
+29,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 依學校 
+
+活動時間開放 ","o_tlc_agency_region":"9"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+enable.mces.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_ag 
+
+ency_address":" 臺北市松⼭￿區⺠￿⽣￿東路￿ 4 段 97 巷 7 
+
+號 ","o_tlc_agency_phone":"(02)2712-4872","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"313607-12@tp.edu.tw","o_tlc_agency_ 
+
+name":" 臺北市松⼭￿區⺠￿族國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2718-0882","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+30,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"9"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+web.jkes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_541_4057856_63437.jpg","o_tlc_agency_address":" 臺北市松⼭￿ 
+
+區延壽街 168 
+
+號 ","o_tlc_agency_phone":"(02)2528-2814","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市松⼭￿區健 
+
+康國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2528-5047","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_541_413772_63437.jpg","_id": 
+
+31,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"9"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.tyes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_569_5955461_07039.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區東園街 195 
+
+號 ","o_tlc_agency_phone":"(02)2303-4803","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區東 
+
+園國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2301-8044","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_569_2129420_07213.jpg","_id": 
+
+55,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.sups.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_542_2402380_13305.jpg","o_tlc_agency_address":" 臺北市松⼭￿ 
+
+區三⺠￿路￿ 5 
+
+號 ","o_tlc_agency_phone":"(02)2760-9221","o_tlc_agency_purpose 
+
+":" 以台北市教育發展⼿￿冊願景為藍￿圖，『⼈￿與我』、『⼈￿與⾃￿然』、『⼈￿與社會』 
+
+三⼤￿⽬￿標，規劃出⻄￿松學校本位課程，在回應⼗￿⼤￿基本能⼒￿￿，使學校本位課程達成九 
+
+年￿   ⼀￿貫   基本精神與內 
+
+涵。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市松⼭￿區⻄￿ 
+
+松國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2766-2370","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"1.  落￿實九年￿⼀￿貫精神，發展學校本位 
+
+課程和多元評量￿。  2.  發展創新和多元教學模式，提升學⽣￿基本能⼒￿￿。  3.  推動教 
+
+師專業成長、提升教學專業知能。  4.  辦理￿學⽣￿課後社團活動，提供多元學習管道   
+
+5.  強化班級經營，暢通親師溝通。  6.  建立同儕輔導及合作機制，形塑校園倫￿理￿溫 
+
+馨氛圍  7.  汰換更￿新教學設備，改善教學環境  8.  規劃校園空間改造，改善老舊校 
+
+舍風貌  9.  強化⾏￿￿政團隊領導能⼒￿￿，提升⾏￿￿政效
+
+能 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_542_3844746_02842.jpg","_id": 
+
+32,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 依活動 
+
+時間開放 ","o_tlc_agency_region":"9"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.smps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市松⼭￿區⺠￿權東路￿ 5 段 1 
+
+號 ","o_tlc_agency_phone":"(02)2764-6080","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市松⼭￿區三 
+
+⺠￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+33,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"9"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.cups.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_544_147226_57496.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區愛國東路￿ 79 巷 11 
+
+號 ","o_tlc_agency_phone":"(02)23917402","o_tlc_agency_purpose" 
+
+:" 營造健康 . 和樂 . 進步的優質校園，許孩⼦￿⼀￿個⾦￿￿⾊￿年￿華的童 
+
+年￿。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區⾦￿￿ 
+
+華國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)23918478","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"ht 
+
+tp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_544_1992783_57496.jpg","_id": 
+
+34,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ktps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_546_8317503_60339.img_0514[1]","o_tlc_agency_address":" 
+
+10647 臺北市⼤￿安區羅斯福路￿ 3 段 201 
+
+號 ","o_tlc_agency_phone":"(02)2363-9795","o_tlc_agency_purpose 
+
+":" 活⼒￿￿    創新    共 
+
+榮 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區古亭 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2363-7599","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 國⺠￿⼩￿學教 
+
+育 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/
+
+agency_546_8717342_60340.img_0515[1]","_id": 
+
+35,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 場地開 
+
+放時間： 1. 平時：上午五時⾄￿七時、下午五時卅分⾄￿九時⽌￿。 2. 週休⼆￿⽇￿及假⽇￿：⾃￿ 
+
+上午五時⾄￿下午九時。 3. 寒暑假：本校辦理￿課後輔導及課外社團，比照平時辦 
+
+理￿。 ","o_tlc_agency_region":"12"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.snes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_547_988198_79342.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區新⽣￿南路￿ 2 段 36 
+
+號 ","o_tlc_agency_phone":"(02)2391-3122","o_tlc_agency_purpose 
+
+":" 辦學的⽬￿標經營⼈￿性的校園⽂￿化       !   讓每個孩⼦￿都喜歡上學。整合⼈￿、事、 
+
+物的教育資源，提供優質的教育環境。建構⼈￿⽂￿與科技融合的學習環境，以增廣國際 
+
+觀，作⼀￿個有尊嚴的地球村⺠￿。提供整潔、美觀、舒適、安全、溫馨的校園⽣￿活。精 
+
+進教師班級經營知能，促進兒童的認識⾃￿我、能體會倫￿理￿、能遵守規範、能理￿性思考 
+
+的全⼈￿格發展。   提供多元課程，多樣的活動        !   讓每個孩⼦￿都能⾃￿在成長。發 
+
+展學校本位課程，並以統整式的課程提供完整且有效的學習。精進「認識兒童」的教 
+
+師知能，奠定個別化、多元化的教學基礎。設計動、靜兼具的多樣學習活動，以發展 
+
+個別潛能。增進教師多元評量￿的知能，肯定並發展多元智慧。精進教學的⽅￿法與內容       
+
+!   讓每個孩⼦￿都有恰如其份的學習。設計適合學校、班級、個別兒童的課程，並編選 
+
+教材，以收適性化教學之效。適當且多量￿利￿⽤￿科技媒體，協助兒童由「知道」之層 
+
+次，進入「理￿解」及「體驗」之層次。提供體驗與探索課程，使教學兼顧「知識能 
+
+⼒￿￿」與「⽅￿法能⼒￿￿」之培養。充分利￿⽤￿豐富的⼈￿、事、物學習資源，適應個別的、以 
+
+及多元發展的需要。培養運⽤￿英語與資訊能⼒￿￿的處理￿       !   讓每個孩⼦￿都能適應國 
+
+際化的未 
+
+來￿。 ","o_tlc_agency_email":"hplee@tp.edu.tw","o_tlc_agency_name 
+
+":" 臺北市⼤￿安區新⽣￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2391-3122","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 辦學的重點      統整的課程與教學設置 
+
+課程發展委員會，發展國⼩￿與幼稚園銜接之學校本位課程。實施主題統整教學，安排 
+
+適性的學習活動，培養學⽣￿核⼼￿能⼒￿￿。結合班群空間，透過班群教師的深度對話與合 
+
+作，整合教學資源，建構協同教學模式。設計多樣化的學習活動，以實作、體驗、討 
+
+論、檔案等多元化的評量￿⽅￿式，開發學⽣￿多元智慧。推動英語及資訊科技融入教學， 
+
+以因應時代潮流，讓孩⼦￿的學習與未來￿接軌。結合圖書館利￿⽤￿教育及閱讀教學，推廣 
+
+親師⽣￿閱讀活動，落￿實終⾝￿學習理￿念￿。推廣⾏￿￿動研究⽅￿案，提⾼￿研究風氣，建立教師 
+
+研究社群。主動協助教師，進⾏￿￿各項研修活動，以深化教學內涵，實現學校教育願景      
+
+健康有禮的⽣￿活與實踐以學⽣￿為中⼼￿，以⽣￿活為範圍，以愛⼼￿為動⼒￿￿，培養有禮貌、 
+
+守秩序、愛整潔、重榮譽的快樂兒童。加強護⽬￿保健、潔牙運動、衛教活動，建立良 
+
+好的健康觀念￿與習慣。提供學⽣￿才藝技能發表與演出的機會，訓練學⽣￿獨立⾃￿主的能 
+
+⼒￿￿，讓孩⼦￿得以多元適性的發展。積極推動資源回收⼯￿作，發起愛校護校運動，並在 
+
+⽇￿常⽣￿活中落￿實環境教育。推動各項體能活動，⿎￿勵孩⼦￿培養運動習慣與態度，以鍛 
+
+鍊￿強健體魄。健全警護制度，結合家長⼒￿￿量￿設置愛⼼￿站與安全地圖，維護校內外交通
+
+及遊戲安全。      優質的設施與學習情境妥善運⽤￿經費，提供教學⽀￿援，配合整體校 
+
+務運作。整合教學資源，建構兼具⼈￿⽂￿與科技學習情境。積極主動服務，維護各項學 
+
+校設施。做好安全防護⼯￿作，提供師⽣￿安全、舒適與溫馨的環境。完善規劃預算，爭 
+
+取社會資源，繼續充實教學設備。       有效能的輔導網絡實施班級團體輔導及⼩￿型 
+
+團體輔導，落￿實⽣￿活輔導，維護⾝￿⼼￿健康。利￿⽤￿晨光活動指導弱勢的兒童，加強學習 
+
+輔導，協助開發潛能。透過特教宣導及體驗活動，實踐融合教育理￿念￿，培養關懷、包 
+
+容及同理￿的態度。⿎￿勵親師⽣￿合作，彰顯『學校⽇￿』及『班親會』功能，親師充分對 
+
+話溝通，達成契合之教育理￿念￿。整合家長資源，成立志⼯￿團，協助校務運作，推展社 
+
+區公共關係。協助非華語系的兒童克服語⽂￿障礙，適應學校⽣￿活環境，以達成『內接 
+
+外轉』之功效。成立家長讀書會，辦理￿系列￿家長成長活動，提昇親職功能。      體驗 
+
+探索的幼兒教育以主題教學模式，安排多樣化學習活動，發展幼教與國⼩￿銜接課程。 
+
+落￿實⽣￿命教育，讓孩⼦￿在互動成長中學會關懷。進⾏￿￿體驗活動，讓孩⼦￿在⽣￿活學習中 
+
+體驗⽂￿化。⿎￿勵獨立思考，讓孩⼦￿在主動探索中創造⾃￿我。實施⽣￿活課程，讓孩⼦￿在 
+
+表達溝通中建立⼈￿際關係。強化幼教專業，提昇⾏￿￿動研究能 
+
+⼒￿￿。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_547_2367690_79914.jpg","_id": 
+
+36,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 上學時 
+
+間：週⼀￿⾄￿週五  7:20 - 16:00","o_tlc_agency_region":"12"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.haps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_548_3083047_02391.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區仁愛路￿ 3 段 22 
+
+號 ","o_tlc_agency_phone":"(02)2707-4191","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區幸 
+
+安國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2708-1845","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_548_5545913_02391.jpg","_id": 
+
+37,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.slps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_593_188699_26222.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區⼤￿東路￿ 165 
+
+號 ","o_tlc_agency_phone":"(02)2881-2231","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區⼠￿ 
+
+林￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2880-1364","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_593_3579110_26222.jpg","_id": 
+
+78,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.laes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_549_8284623_21624.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區新⽣￿南路￿ 3 段 33 
+
+號 ","o_tlc_agency_phone":"(02)2363-2077","o_tlc_agency_purpose 
+
+":" 龍安願景：安穩、健康、充實龍安學⽣￿圖像：愛⼰￿、感恩、⾏￿￿ 
+
+善 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區龍安 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2363-7798","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" ⼀￿⾄￿六年￿級及幼兒園的學⽣￿學習和全⼈￿ 
+
+教育 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_549_4954944_59947.jpg","_id": 
+
+38,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 非上課 
+
+開放時間：星期⼆￿～五    晚上 6 ： 00 ～ 10 ： 00                                 
+
+星期六、⽇￿    早上 8 ： 00 ～下午 5 ： 00","o_tlc_agency_region":"12"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.ntueees.tp.edu.tw\/ 
+
+newweb\/","o_tlc_agency_img_front":"","o_tlc_agency_address":" 
+
+臺北市⼤￿安區和平東路￿ 2 段 94 
+
+號 ","o_tlc_agency_phone":"(02)2735-6186","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 國立臺北教育⼤￿ 
+
+學附設實驗國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2735-0818","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+39,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.jnps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_551_7226765_84482.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區⼤￿安路￿ 2 段 99 
+
+號 ","o_tlc_agency_phone":"(02)2707-7119","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區建 
+
+安國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2708-1316","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_551_878830_84482.jpg","_id":
+
+40,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_553_2889702_26374.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區羅斯福路￿ 4 段 21 
+
+號 ","o_tlc_agency_phone":"(02)2363-9815","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"mhps.pass@gmail.com","o_tlc_agency_ 
+
+name":" 臺北市⼤￿安區銘傳國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2362-0782","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_553_5965569_26374.jpg","_id": 
+
+41,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.gges.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_554_5715713_21613.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區基隆￿路￿ 4 段 41 巷 68 弄￿ 2 
+
+號 ","o_tlc_agency_phone":"(02)2735-1734","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區公 
+
+館國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2732-6068","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_554_4877186_21654.jpg","_id": 
+
+42,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.japs.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_556_1511980_78016.jpg","o_tlc_agency_address":" 臺北市⼤￿安 
+
+區安和路￿ 1 段 60 
+
+號 ","o_tlc_agency_phone":"(02)2709-5010","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼤￿安區仁 
+
+愛國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2708-1312","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_556_8509204_78016.jpg","_id": 
+
+43,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"12"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/
+
+www.fhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_558_5595767_99345.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區中華路￿ 1 段 66 
+
+號 ","o_tlc_agency_phone":"(02)2314-4668","o_tlc_agency_purpose 
+
+":" 本校位居臺北市交通樞紐，吸引優秀教師任教及莘莘學⼦￿就學。福星國⼩￿春風廣 
+
+被，畢業校友眾多，英才淵藪，於各⾏￿￿業皆有傑出的表現，展現出『今⽇￿我以福星為 
+
+榮，明⽇￿福星以我為榮』的傳統精神。近百年￿校史孕育出純樸校風，家長重視家庭教 
+
+育，學⽣￿素質中上，成就動機⾼￿，並訂有全校性的學⽣￿獎勵制度，提昇學⽣￿學習向上 
+
+的動⼒￿￿。榮獲台北市教育局優質學校標章，辦學績效深獲肯定；班級導師諄諄教誨、 
+
+作育英才，師⽣￿互動良好。歷年￿家長會頃⼒￿￿協助，並熱⼼￿擔任校內各項義⼯￿，使校務 
+
+運作順 
+
+暢。 ","o_tlc_agency_email":"373611-12@tp.edu.tw","o_tlc_agency_ 
+
+name":" 臺北市萬華區福星國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2375-1574","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 豐富的社團學習活動融合於總體課程之 
+
+中，提供兒童更￿具廣度與深度的學習，⼈￿⼈￿可依⾃￿我興趣、性向發展個⼈￿專長，實現 
+
+多元探索的學習機會。逐年￿充實圖書與資訊設備，⿎￿勵閱讀、資訊融入各科，豐富學 
+
+⼦￿的學習內涵。本校每學期開設各種課後社團，兼具體育性與藝⽂￿性，吸引許多學⼦￿ 
+
+參￿加；每學期舉辦發表社團才藝發表會，教學成果斐然。本校著名的福星國⼩￿合唱團 
+
+成立於⺠￿國四⼗￿年￿，⾳￿樂實驗班成立於⺠￿國六⼗￿⼆￿年￿，擁有優良傳統，孕育出無數的 
+
+⾳￿樂學⼦￿，在各⼤￿⾳￿樂賽事中榮獲優異￿成績，歷屆⾳￿樂班校友更￿活躍於國內外樂壇。 
+
+⺠￿國九⼗￿六年￿成立體育班，專攻排球項⽬￿，屢￿屢￿在臺北縣市賽事中，榮獲優異￿成績。 
+
+⺠￿國九⼗￿九年￿，更￿囊括『臺北市教育盃排球賽』六年￿級男童女童⼄￿組雙料冠軍。本校 
+
+輔導室附設資源班，提供輔導教學，使學習障礙、情緒障礙的孩⼦￿獲得悉⼼￿的指導與 
+
+照顧，在這裡，可以看⾒￿￿孩⼦￿們都有顯著的進步與成長。本校附設幼稚園，老師們秉 
+
+持熱忱、敬業的精神，培育著國家未來￿的⼩￿幼苗，辦學成果深獲教育局及家長們的肯 
+
+定。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_558_6643327_84213.jpg","_id": 
+
+44,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 每週⼀￿ 
+
+⾄￿五 08:00–17:00","o_tlc_agency_region":"3"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.jtes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_594_5944304_22363.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區通河街 16 
+
+號 ","o_tlc_agency_phone":"(02)2885-5491","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區劍 
+
+潭國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2886-5919","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_594_9435590_23417.jpg","_id": 
+
+79,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hmes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_559_6160548_94221.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區成都路￿ 98 
+
+號 ","o_tlc_agency_phone":"(02)2389-2182","o_tlc_agency_purpose 
+
+":" ⼀￿、實施⼈￿性化、⺠￿主化領導，強化⾏￿￿政服務效能⼆￿、精進教師教學效能，激發 
+
+學⽣￿學習潛能三、開闢多元學習管道，拓￿展學⽣￿成長活⼒￿￿與專長四、推動美感教育， 
+
+建構優質教育環境五、持續推動「深耕閱讀」活動，積極培養學⽣￿核⼼￿能⼒￿￿六、提供 
+
+順性揚才發展機會、落￿實教育公平正義理￿念￿七、暢通親師溝通管道，緊密夥伴關係 
+
+八、前瞻規劃穩健經營、邁向「卓越⻄￿⾨￿」特⾊￿學 
+
+校 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區⻄￿⾨￿ 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_559_5707030_94221.jpg","_id": 
+
+45,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.tlsps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_560_7108357_95410.gif","o_tlc_agency_address":" 臺北市萬華 
+
+區桂林￿路￿ 64 
+
+號 ","o_tlc_agency_phone":"(02)2336-1266","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區老 
+
+松國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2304-2493","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+46,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.lses.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_561_579625_19399.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區和平⻄￿路￿ 3 段 235 
+
+號 ","o_tlc_agency_phone":"(02)2308-2977","o_tlc_agency_purpose 
+
+":" 本校在陳榮富校長領導下，以「成就孩⼦￿的未來￿」為教育的核⼼￿理￿念￿，以「助 
+
+⼈￿、成⼈￿、感⼈￿、化⼈￿」的教育歷程，期待學校是孕育學⽣￿品格涵養的搖籃，以「健 
+
+康、快樂、新國⺠￿；活⼒￿￿、前瞻、展卓越」辦學願景，期待提升教師專業，整合熱情
+
+參￿與家長的⼒￿￿量￿，許龍⼭￿國⼩￿美好的未 
+
+來￿。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區龍 
+
+⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2304-3127","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_561_1125826_19399.jpg","_id": 
+
+47,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+web.hces.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市萬華區環河南路￿ 2 段 250 巷 42 弄￿ 2 
+
+號 ","o_tlc_agency_phone":"(02)2306-4352","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區華 
+
+江國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+48,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.syps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市萬華區莒光路￿ 315 
+
+號 ","o_tlc_agency_phone":"(02)2306-1893","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區雙 
+
+園國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+49,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hups.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市萬華區東園街 73 巷 65 
+
+號 ","o_tlc_agency_phone":"(02)2303-5573","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區⻄￿ 
+
+園國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+50,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wtps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_565_2835625_09453.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區萬⼤￿路￿ 346
+
+號 ","o_tlc_agency_phone":"(02)2303-7654","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市萬華區萬 
+
+⼤￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)23019125","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"ht 
+
+tp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_565_4353065_09453.jpg","_id": 
+
+51,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.kjes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市萬華區萬⼤￿路￿ 423 巷 15 
+
+號 ","o_tlc_agency_phone":"(02)2303-2874","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市私立光仁 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+52,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.soes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_567_8612921_88217.jpg","o_tlc_agency_address":" 臺北市萬華 
+
+區⻄￿藏路￿ 125 巷 31 
+
+號 ","o_tlc_agency_phone":"(02)2303-8298","o_tlc_agency_purpose 
+
+":" 培養健康、快樂、負責、守法、感恩之健全⼈￿ 
+
+格 ","o_tlc_agency_email":"soes@tp.edu.tw","o_tlc_agency_name": 
+
+" 臺北市萬華區新和國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(022305-8574","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"ht 
+
+tp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_567_611790_88217.jpg","_id": 
+
+53,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"3"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wsps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_570_15118_78027.jpg","o_tlc_agency_address":" 臺北市信義區 
+
+松仁路￿ 226 
+
+號 ","o_tlc_agency_phone":"(02)2720-0226","o_tlc_agency_purpose 
+
+":" 發展學校特⾊￿、回歸教育本質、幫助孩⼦￿成長學校圖像：「⽣￿氣蓬勃、溫情有 
+
+愛。   」兒童圖像：「健康、快樂、尊重、負責。」教師圖像：「喜愛孩⼦￿、勤￿於學 
+
+習、樂在教學。」家長圖像：「以愛和榜樣⽀￿持教育，成為教師的⼯￿作夥 
+
+伴。」 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區
+
+吳興國⺠￿⼩￿學 ","o_tlc_agency_fax":"(02)  
+
+8788-3043","o_tlc_agency_admincategory":"","o_tlc_agency_servi 
+
+ce":" 有開辦「附設補習補校」和「成⼈￿基本教育研習 
+
+班」 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_570_156427_78027.jpg","_id": 
+
+56,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.syes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_571_564630_84181.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區松勤￿街 60 
+
+號 ","o_tlc_agency_phone":"(02)2720-4005","o_tlc_agency_purpose 
+
+":" （⼀￿）、培養學⽣￿服務⼈￿群的信念￿與技能：             「以利￿他之存⼼￿，完成 
+
+利￿⼰￿之⽬￿的」為信念￿，以慈悲包容⼈￿，以智慧解決事」為服務⽅￿法。（⼆￿）、激發學 
+
+⽣￿主動學習的熱誠與能⼒￿￿：              瞭解學⽣￿⾝￿⼼￿之歷程，施予適當之教育措 
+
+施，激發學習動能，使其獲得學習的滿⾜￿，達成終⾝￿學習，完成⾃￿我實現。（三）、 
+
+營造親、師、⽣￿共同經營的學校：             以學⽣￿教育利￿益為優先，家長及教 
+
+師共同合作，同時發揮學校與家庭教育的功能。擴⼤￿參￿與管道，促進意⾒￿￿的交流與共 
+
+識的建立，以達成學校的教育任 
+
+務。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區信 
+
+義國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)27253247","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":" 服務⼈￿群          多元學習         快 
+
+樂和諧 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_571_3192447_83422.jpg","_id": 
+
+57,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.shps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_572_824968_14826.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區基隆￿路￿ 2 段 99 
+
+號 ","o_tlc_agency_phone":"(02)2738-5488","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區三 
+
+興國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2737-2684","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_572_6455115_13565.jpg","_id": 
+
+58,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_573_9188632_28095.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區松⼭￿路￿ 287 巷 5 
+
+號 ","o_tlc_agency_phone":"(02)8785-8111","o_tlc_agency_purpose 
+
+":" ⼀￿學校教育⽬￿標：   1.  提供優質的⽣￿活環境，促使學⽣￿健康成長。  2.  實施多 
+
+元活潑教學，增進學⽣￿快樂學習。  3.  規劃豐富學習內涵，建構學習型學校，奠定學 
+
+⽣￿全⾯￿追求卓越   成就        的基礎。  4.  尊重每個⼈￿的價值和尊嚴，發揚⼈￿⽂￿精 
+
+神。  5.  暢通溝通管道，⿎￿勵教師家長參￿與校務。  6.  尊重教師專業⾃￿主權，建立 
+
+學校本位管理￿。  7.  實施全⾯￿品質管理￿落￿實績效責任。  8.  開放學校場地，資源共 
+
+享，互助共榮  9.  前瞻性原則：徵詢同仁、學⽣￿、家長與社區的意⾒￿￿⼆￿學校願景：    
+
+培養   求真   致善   達美   的新世紀健全國⺠￿三學校⽬￿標：    期望「永吉⼈￿」皆能以樂 
+
+觀的態度，接納與⽣￿俱來￿的⼀￿切，不怨天尤⼈￿、不⾃￿暴￿⾃￿棄，能夠感恩珍惜擁有，時 
+
+時求進步，懷抱   「   安全   、   快樂   、   有活⼒￿￿   ；   ⾃￿律￿   、   關懷   、   有創意   」的 
+
+超越精神，朝向潛能的發揮，開創⽣￿命的價值⾼￿ 
+
+峰。 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區永 
+
+吉國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)8785-8106","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 幼兒園、國⺠￿⼩￿學教育、成⼈￿教育 
+
+班 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_573_1206788_70189.jpg","_id": 
+
+59,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 週⼀￿ ~ 五 
+
+8:00~16:00 上班上課 ","o_tlc_agency_region":"6"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.ycps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_574_6886424_59435.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區松⼭￿路￿ 225 巷 48 
+
+號 ","o_tlc_agency_phone":"(02)2764-1314","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區永 
+
+春國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2760-2009","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_574_1559948_59435.jpg","_id": 
+
+60,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hyps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_575_3934225_22363.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區基隆￿路￿ 1 段 83 巷 9
+
+號 ","o_tlc_agency_phone":"(02)2761-8156","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區興 
+
+雅國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"02)2766-2428","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"ht 
+
+tp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_575_4021915_22363.jpg","_id": 
+
+61,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.bles.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_595_4005659_59678.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區福港街 205 
+
+號 ","o_tlc_agency_phone":"(02)2881-7683","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區百 
+
+齡國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2883-1163","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_595_7589052_59678.jpg","_id": 
+
+80,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.kfps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_576_6962997_90547.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區光復南路￿ 271 
+
+號 ","o_tlc_agency_phone":"(02)2758-5076","o_tlc_agency_purpose 
+
+":" 以學⽣￿學習為主體，改善學校各項教學設施，營造校園⼈￿⽂￿環境，開發學⽣￿潛 
+
+能，以快樂、學習、感恩的經營⽅￿式，結合專業、熱誠、有夢的愛⼼￿老師，與關懷、 
+
+合作、有情的溫馨家長，共同培養主動、尊重、友愛的⼆￿⼗￿⼀￿世紀全⼈￿發展光復新兒 
+
+童。 ","o_tlc_agency_email":"kfps.tp.edu.tw","o_tlc_agency_name" 
+
+:" 臺北市信義區光復國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2758-0626","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 國⼩￿教育、親職教 
+
+育、 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_576_2914888_90547.jpg","_id": 
+
+62,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 週⼀￿⾄￿ 
+
+週五上午 8 時⾄￿下午四時 ","o_tlc_agency_region":"6"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.baps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_577_6230460_84967.jpg","o_tlc_agency_address":" 臺北市信義 
+
+區松仁路￿ 95 巷 20 
+
+號 ","o_tlc_agency_phone":"(02)2345-0616","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區博 
+
+愛國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_577_2455539_84967.jpg","_id": 
+
+63,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.fdps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市信義區福德街 253 
+
+號 ","o_tlc_agency_phone":"(02)2727-7992","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市信義區福 
+
+德國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+64,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"6"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.flps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_579_9210192_43482.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區福志路￿ 75 
+
+號 ","o_tlc_agency_phone":"(02)2831-6293","o_tlc_agency_purpose 
+
+":" 「美的福林￿兒童」的願景。培養尊重關懷、健康活⼒￿￿、創新合作，成為真 
+
+善 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區福林￿ 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2833-5480","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_579_8287925_43482.jpg","_id": 
+
+65,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 全 
+
+天 ","o_tlc_agency_region":"2"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.hops.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⼠￿林￿區⾄￿善路￿ 3 段 199 
+
+號 ","o_tlc_agency_phone":"(02)2841-1010","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區溪 
+
+⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+66,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.sses.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⼠￿林￿區中社路￿ 2 段 66 
+
+號 ","o_tlc_agency_phone":"(02)2841-1038","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區雙 
+
+溪國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2841-1268","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+67,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yses.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_582_2156803_66281.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區⾄￿誠路￿ 1 段 62 巷 70 
+
+號 ","o_tlc_agency_phone":"(02)2831-1004","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區雨 
+
+聲國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)28360645","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"ht 
+
+tp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_582_8205112_66282.jpg","_id": 
+
+68,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ynes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_583_5547772_74981.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區忠義街 1 
+
+號 ","o_tlc_agency_phone":"(02)2832-9700","o_tlc_agency_purpose 
+
+":" 尊重關懷⽣￿命 , 樂觀進取學習 , 多元智慧發展 , 全⼈￿成長精 
+
+進 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區雨農 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"02-28319401","o_tlc_agency_admincatego 
+
+ry":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"htt 
+
+p:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_583_1147150_74981.jpg","_id": 
+
+69,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ymps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc
+
+y_address":" 臺北市⼠￿林￿區仰德⼤￿道 3 段 61 
+
+號 ","o_tlc_agency_phone":"(02)2861-6366","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區陽 
+
+明⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+70,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hrps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_596_139540_89757.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區環河北路￿ 3 段 95 
+
+號 ","o_tlc_agency_phone":"(02)2812-9586","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區葫 
+
+蘆國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2811-3761","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_596_7074421_89757.jpg","_id": 
+
+81,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+home.pdps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_585_8343846_91521.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區平菁街 101 
+
+號 ","o_tlc_agency_phone":"(02)2861-0503","o_tlc_agency_purpose 
+
+":" 平等國⼩￿創校於⺠￿國⼗￿年￿，當時稱為草⼭￿公學校坪頂分離教室，⾄￿今已有八⼗￿多 
+
+年￿歷史。學校位處海￿拔 410m 的⼭￿區，對外交通以單⼀￿產業道路￿聯￿通雙溪及⼭￿仔后。學 
+
+區緊鄰陽明⼭￿國家公園東南側，學區內有先⺠￿開鑿的坪頂古圳與古步道，豐富的⾃￿然 
+
+⽣￿態及⼈￿⽂￿歷史遺跡是本校重要的教學資源。       本校為教育局指定實施⽥￿園實驗 
+
+教學學校，於⺠￿國八⼗￿年￿起⾄￿⺠￿國九⼗￿年￿，累積可觀的教學資源，對於本校實施九年￿ 
+
+⼀￿貫課程之學校本位課程有相當的助益，尤其本校⾃￿九⼗￿⼀￿學年￿度實施步道教學課 
+
+程，課程成效良好，並多獲好評。      此外，本校傳承薪傳獎⼤￿師李天祿先⽣￿之「巧 
+
+宛然」掌中戲團。⾃￿⺠￿國七⼗￿七年￿成立以來￿，⼗￿餘年￿間在全臺各地暨韓國、加拿⼤￿、 
+
+⽇￿本、澳洲等地，積極推展傳統⺠￿俗技藝與⽂￿化交流。全校現有班級數為普通班 6 
+
+班，資源班 1 班，附設幼稚園 1 班。      歷任校長致⼒￿￿於校務經營與學校發展特⾊￿， 
+
+積極克服困難，建設各項軟硬體設施以及改善校園環境，配合得天獨厚的⾃￿然資源， 
+
+予學⼦￿優質、精緻的教育。學校雖⼩￿卻「五臟俱全」，各科專科教室、學⽣￿活動中 
+
+⼼￿、游泳池、操場、環校步道等設施⿑￿ 
+
+全。 ","o_tlc_agency_email":"vin858@gmail.com","o_tlc_agency_nam 
+
+e":" 臺北市⼠￿林￿區平等國⺠￿⼩￿
+
+學 ","o_tlc_agency_fax":"(02)2861-3642","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_585_7119057_91521.jpg","_id": 
+
+71,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/new.zsps.tp.edu.tw\/xoops\/ 
+
+html\/","o_tlc_agency_img_front":"","o_tlc_agency_address":" 臺 
+
+北市⼠￿林￿區德⾏￿￿東路￿ 285 
+
+號 ","o_tlc_agency_phone":"(02)2831-6115","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區芝 
+
+⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2834-0393","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+72,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.stes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_588_5681278_51337.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區中⼭￿北路￿ 6 段 392 
+
+號 ","o_tlc_agency_phone":"(02)2871-0064","o_tlc_agency_purpose 
+
+":" 全⼈￿教育 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市 
+
+⼠￿林￿區⼠￿東國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2873-8591","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 幼兒園、國⼩￿部、成⼈￿夜補 
+
+校 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_588_5362004_51337.jpg","_id": 
+
+73,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 下午 
+
+5:30~9:30","o_tlc_agency_region":"2"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.syups.tp.edu.tw","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_589_1966711_84799.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區天⺟￿東路￿ 116 
+
+號 ","o_tlc_agency_phone":"(02)2875-1369","o_tlc_agency_purpose 
+
+":" 三⽟￿期望提供孩⼦￿「能適性發展以⾃￿我實現」的學習場域，整合「健康、和諧、 
+
+學習」之學校發展願景，在「⽣￿命健康、⽣￿態和諧、⽣￿活學習」⼈￿⽣￿三⼤￿學習的基本 
+
+需求下，透過專業的教學歷程進⾏￿￿有效的知能轉化，藉以培養⼀￿位動靜合宜、健康卓 
+
+越世界觀的優雅三⽟￿ 
+
+⼈￿。 ","o_tlc_agency_email":"syups@tp.edu.tw","o_tlc_agency_name 
+
+":" 臺北市⼠￿林￿區三⽟￿國⺠￿⼩￿
+
+學 ","o_tlc_agency_fax":"(02)2874-1607","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 提供⼩￿學⼀￿⾄￿六年￿級學童接受完善的國 
+
+⼩￿國⺠￿教育 ","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_589_3584272_84799.jpg","_id": 
+
+74,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 平⽇￿上 
+
+學時間 AM7:50~PM3:50","o_tlc_agency_region":"2"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.tmups.tp.edu.tw","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_590_2863676_18995.png","o_tlc_agency_address":" 臺北市⼠￿林￿ 
+
+區天⽟￿街 12 
+
+號 ","o_tlc_agency_phone":"(02)2872-3336","o_tlc_agency_purpose 
+
+":" 把握「學⽣￿第⼀￿」的教學原則，提供「教學為先」的⾏￿￿政服務，發展「安全快 
+
+樂」的教學環境，設計「多元適性」的學習內涵，策進「前瞻正確」的⾏￿￿政決定，推 
+
+動「親師合作」的伙伴關係，營造「⺠￿主開放」的學校氣氛，形塑「優質典雅」的校 
+
+園⽂￿化，建立「共治共榮」的學習園地。綜合以上辦學理￿念￿，我們共塑天⺟￿國⼩￿的願 
+
+景為：「多元發展國際觀，快樂⾃￿信天⺟￿ 
+
+⼈￿」 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區天 
+
+⺟￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2873-0345","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" ⼀￿⾄￿六年￿級學齡兒童之國⺠￿教 
+
+育 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_590_7105880_18996.jpg","_id": 
+
+75,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 上課期 
+
+間：上午 7:30~ 下午 6:00 不對外開放對外開放時間：上午 7:00~7:30  及   下午 
+
+6:00~9:00","o_tlc_agency_region":"2"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.lyps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⼠￿林￿區磺溪街 57 
+
+號 ","o_tlc_agency_phone":"(02)2836-6052","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區蘭￿ 
+
+雅國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2835-8475","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+76,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wces.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_592_7892152_10088.jpg","o_tlc_agency_address":" 臺北市⼠￿林￿
+
+區⽂￿林￿路￿ 615 巷 20 
+
+號 ","o_tlc_agency_phone":"(02)2836-5411","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區⽂￿ 
+
+昌國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2836-2943","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_592_6444179_10111.jpg","_id": 
+
+77,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.stps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⼠￿林￿區延平北路￿ 6 段 308 
+
+號 ","o_tlc_agency_phone":"(02)2811-7329","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⼠￿林￿區社 
+
+⼦￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2813-2763","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+82,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"2"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ysps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_599_3773703_83249.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區新⺠￿路￿ 2 
+
+號 ","o_tlc_agency_phone":"(02)2891-4537","o_tlc_agency_purpose 
+
+":" 營造活⼒￿￿逸仙 ~ 健康、快樂、進步實踐共同願景 ~ 熱誠、積極、效能⼀￿、建立優質 
+
+的學校整體形象。⼆￿、兼顧個性發展與群性陶冶。三、重視課程的適應性，加強語⽂￿ 
+
+及藝⽂￿教學。四、辦理￿多樣的教育活動，培養學⽣￿多元的能⼒￿￿。五、激勵教師成為專 
+
+家教師的動⼒￿￿。六、學⽣￿的安全與健康是學校辦學的⾸￿要⽬￿標。七、許孩⼦￿⼀￿個希望 
+
+的未 
+
+來￿。 ","o_tlc_agency_email":"ndmen@ysps.tp.edu.tw","o_tlc_agency 
+
+_name":" 臺北市北投區逸仙國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2892-4201","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 逸仙，是⼀￿所有歷史，有故事的⼩￿學， 
+
+也是全國唯⼀￿以「逸仙」為名的學校。我們⾃￿詡是「⼭￿腳下的逸仙，樟樹下的樂 
+
+園」。近年￿來￿，學校在轉型蛻變中，⼤￿幅更￿新老舊校舍、美化校園環境、增置遊戲器 
+
+材、更￿新電腦及專科教室，並充實教學設備，提供便￿利￿、豐富的教學環境；軟實⼒￿￿部 
+
+分，強化教師專業成長，申請社群發展計畫，成立教師⼯￿作坊，積極進⾏￿￿校本課程設 
+
+計與教學實驗。並以品格教育為核⼼￿，推展「閱讀」「體驗」「關懷」為主之校本課 
+
+程，規劃多元的學習活動，設計⽣￿動活潑的情境，延伸學習場域，進⽽￿擴展學習視 
+
+野。經過親師⽣￿攜⼿￿，同⼼￿協⼒￿￿再接再勵，獲得最佳肯定，榮獲 98 年￿度臺北市優質學
+
+校學⽣￿學習獎項，並於 99 學年￿度通過臺北市教育 111 標竿學校認 
+
+證。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_599_9315168_83249.jpg","_id": 
+
+84,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"07:10~ 
+
+18:30","o_tlc_agency_region":"7"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.cjps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_600_7920563_75138.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區公館路￿ 220 
+
+號 ","o_tlc_agency_phone":"(02)2891-2764","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區清 
+
+江國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2892-1839","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_600_8692917_75138.jpg","_id": 
+
+85,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.cyps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_601_9045504_00395.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區東昇路￿ 34 
+
+號 ","o_tlc_agency_phone":"(02)2895-1258","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區泉 
+
+源國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2892-5970","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_601_3898275_00395.jpg","_id": 
+
+86,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.dtps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_602_3903670_89654.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區復興三路￿ 312 
+
+號 ","o_tlc_agency_phone":"(02)2891-4353","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區⼤￿ 
+
+屯國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2893-5641","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_602_9761130_89654.jpg","_id": 
+
+87,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.whps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_604_2920840_17975.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區⽂￿化三路￿ 1 
+
+號 ","o_tlc_agency_phone":"(02)2893-3828","o_tlc_agency_purpose 
+
+":" 校訓：惜福感恩⾃￿愛愛 
+
+⼈￿ ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區⽂￿化 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)28961238","o_tlc_agency_admincateg 
+
+ory":"","o_tlc_agency_service":" 臺北市北投區⽂￿化國⼩￿發展特⾊￿⼀￿、語⽂￿ 
+
+教育語⽂￿教育是所有學習活動的基礎，只有紮實的語⽂￿教育，其他相關領域教學、相 
+
+關能⼒￿￿培養才能持續延展，因此語⽂￿活動的豐富與落￿實，是本校教學⼀￿直追求的重 
+
+點。為落￿實每個孩⼦￿們的語⾔￿、語⽂￿表達能⼒￿￿，學校特地安排下列￿學習活動：每年￿定 
+
+期舉辦校內國語⽂￿競賽，有：低年￿級說故事比賽、中年￿級演說、書法比賽、⾼￿年￿級書 
+
+法、字⾳￿字形、即席演講、朗讀和作⽂￿比賽。   每週發下低、中、⾼￿「每週⼀￿⽂￿」資 
+
+料，進⾏￿￿朗讀比賽和閱讀。   ⾼￿年￿級每週進⾏￿￿演說比賽。   舉辦語⽂￿冬令營，針對有語 
+
+⽂￿專長學⽣￿集訓。   落￿實國語⽂￿教學，指導學⽣￿閱讀策略￿。   ⿎￿勵學⽣￿⼤￿量￿閱讀各類書 
+
+籍，提昇語⽂￿能⼒￿￿。   ⼆￿、兒童閱讀與圖書館利￿⽤￿教育推動書香制度，⿎￿勵學⽣￿閱讀 
+
+好書，累計 20 、 50 、 100 本好書並書寫閱讀⼼￿得，頒發書香學⼠￿、碩⼠￿、博⼠￿獎。   
+
+全校學⽣￿在⼩￿學六年￿內必須閱讀 100 本好書並書寫閱讀紀錄。   每週推出「⼩￿博⼠￿信 
+
+箱」和「語⽂￿萬花筒」有獎徵答活動，⿎￿勵學⽣￿查檢資料。   每⽉￿有「主題書展」， 
+
+配合學校活動或節慶做專書介紹。   舉辦⾦￿￿書獎活動，⿎￿勵學⽣￿製作⼩￿書，瞭解書的 
+
+結構。   三年￿級閱讀指導課由有專長之愛⼼￿志⼯￿進⾏￿￿教學。   ⼀￿班⼀￿書總計有 150 套左 
+
+右，可由各班借⽤￿，全班學⽣￿共讀分享。   每週週⼆￿辦理￿書精靈老師說故事活動。   定 
+
+期辦理￿查字典比賽、查資料比賽。   上學期辦理￿好書推薦⼤￿家讀活動，下學期辦理￿好 
+
+書交換活動。   三、英語教學本校於九⼗￿學年￿度奉臺北市政府教育局核准，為第⼀￿所 
+
+全⾯￿性試辦英語教學之公立⼩￿學，幾年￿來￿兢兢業業，從政策制度的研擬、教學情境的 
+
+營造、晨光英語的實施、節慶主題的教學、教師專業的強化，以及寒暑假英語梯隊的 
+
+活動，都可以看到學校的努⼒￿￿與學⽣￿的成長。甄聘英語認證合格教師，幼稚園⾄￿六年￿ 
+
+級均進⾏￿￿英語教學，加強學⽣￿英語聽、說能⼒￿￿。並於課輔班安排英語⼩￿班教學，提供 
+
+更￿多接觸英語的環境。   於九⼗￿學年￿度起，奉教育局核准全校全⾯￿性試辦加強英語教 
+
+學。   英語教學採全美語教學，提昇學⽣￿聽⼒￿￿。   ⼤￿量￿採購英語童書，提供學⽣￿豐富的 
+
+英語閱讀環境。   積極營造有利￿於學習的軟、硬體雙語環境。   研發外籍教師英語教 
+
+材。   製作晨光英語系列￿活動。   每年￿度辦理￿英語⽇￿活動，提供學⽣￿全語⽣￿活化的體驗 
+
+情境。   進⾏￿￿各項英語專案研究，發展校本英語課程，及提供臺北市國⼩￿英語推動之 
+
+參￿考。   辦理￿各類型英語補教教學活動、親⼦￿共學英語活動。   辦理￿寒暑假英語營隊活 
+
+動及暑假遊學活動。   四、資訊教育訂定本校資訊課程綱要，明定本校學⽣￿三⾄￿六年￿ 
+
+級資訊課程與學⽣￿能⼒￿￿。   ⿎￿勵教師製作數位課程與教材。   申請資訊專案計畫，提升
+
+學⽣￿資訊應⽤￿能⼒￿￿。   五、性別平等教育⽂￿化國⼩￿是本市國⼩￿性別平等教育中⼼￿彙辦 
+
+學校及北投區性別平等教育重點學校，從創校即已積極投入性別教育，積極研發相關 
+
+課程及教材，期以引導孩⼦￿們認識⾃￿我的成長與發展，學習如何與⼈￿相處、與異￿性相 
+
+處，且能適時的保護⾃￿⼰￿，察覺危機，並奠定掌握⾃￿⼰￿的⽣￿涯規劃基礎。性別教育是 
+
+本校實施多年￿的⼀￿⼤￿特⾊￿。六、教師專業成長教師為何無法成為⼀￿般⼈￿眼中的專業， 
+
+實是教師本⾝￿對⾃￿我專業的認同度不⾜￿，以及對教學的不嚴謹，讓⼈￿有所質疑，才使 
+
+得教師的社會地位⽇￿益下滑，專業成分不如律￿師、醫師、建築師、會計師等師字輩的 
+
+⾏￿￿業。本校為強化教師的專業能⼒￿￿與提昇教學的精緻品質，特別將教師的專業成長列￿ 
+
+為學校重⼤￿⾏￿￿事之⼀￿。為拓￿展教師專業成長，本校的作法如下：  ( ⼀￿ ) 深度專業對 
+
+話：健全相關組織，擬訂全⾯￿性課程發展計畫及討論主題，落￿實於學年￿會議、領域課 
+
+程會研究會、⾏￿￿政會議、課程發展委員會中討論。兼顧縱向橫向課程規劃，使學校成 
+
+員能循序漸進，由點⾄￿⾯￿凝聚共識。  ( ⼆￿ ) 提昇專業素養：精緻規劃各項教師成長活 
+
+動：邀請專家學者及實務經驗教師擔任專題演講講座。   成立教師讀書會（教學檔案 
+
+與專業成長、童書演奏 …… 等）。   每週週五晨會持續進⾏￿￿教師教學與研究經驗分享。   
+
+( 三 ) 有效知識管理￿：成立教學資源中⼼￿，收集教材、教具、教學媒體及各類資源。   
+
+每位教師均建立教學檔案，並安排相關專業成長活動，如讀書會、專題演講、觀摩展 
+
+⽰￿分享，並給予每位教師回饋建議，還拍攝成數位檔，安排與全校教師分享。   學⽣￿ 
+
+建立學習檔案，並推動主題研究及⼩￿書製作。   結合資訊網路￿，建立教學專業對話平 
+
+台，提供教師應⽤￿、分享。  ( 四 ) 推動研究風氣：執⾏￿￿教育局各項研究專案，並於校 
+
+內積極推展教育⾏￿￿動研究，本校參￿與教師相當踴躍，且連續多年￿在教育局所主辦的⾏￿￿ 
+
+動研究比賽中名列￿前茅，獲得豐碩成果。   結合⾏￿￿動研究、兩￿性平等教育、專案研 
+
+究、英語教學、資訊課程出版專輯，提供同仁及教育夥伴分享。  ( 五 ) 掌握教學品 
+
+質：掌握有效教學、協同教學、多元評量￿、學⽣￿⾝￿⼼￿階段發展特質、各領域關鍵能⼒￿￿ 
+
+點與知識點之研究 …… 等原則，落￿實於教學與評量￿。  ( 六 ) 共塑學校願景：透過意⾒￿￿交 
+
+流、觀念￿溝通、彙整、協商、決議，討論親師⽣￿圖像，共塑學校願景。  ( 七 ) 發展校 
+
+本課程：以「本國語⽂￿（含兒童閱讀）、英語教學、兩￿性平等教育、藝術與⼈￿⽂￿、體 
+
+驗學習」，作為本校課程發展重點，落￿實於課程規劃、學年￿活動、學校活動中進⾏￿￿； 
+
+結合教學、⾏￿￿政、家長⼈￿⼒￿￿資源，進⾏￿￿各領域及六⼤￿議題教學活動。並針對校本課 
+
+程，規劃下列￿活動及課程：快樂晨光英語、閱讀指導家長圖書館利￿⽤￿教育指導課程、 
+
+藝術週活動、英語⽇￿活動、假⽇￿全校登⼭￿活動、假⽇￿教師進修活動、綠園琴韻⼼￿連⼼￿ 
+
+⾳￿樂會、外籍英語教師主題式繪本教學課程、青春向前⾏￿￿班級輔導活動 
+
+等。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_604_9668310_17862.gif","_id": 
+
+88,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yfes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市北投區珠海￿路￿ 155 
+
+號 ","o_tlc_agency_phone":"(02)2891-7433*141","o_tlc_agency_pur 
+
+pose":" 不放棄任何⼀￿位孩⼦￿，讓每⼀￿位孩⼦￿擁有應有的價 
+
+值 ","o_tlc_agency_email":"wzchen@yfes.tp.edu.tw","o_tlc_agency
+
+_name":" 臺北市北投區義⽅￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2892-7343","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 打造尊重關懷的教育環境提供卓越品質 
+
+的教育內涵              落￿實公平正義的教育歷程   導引⼈￿盡其才的教育發 
+
+展 ","o_tlc_agency_img_inner":"","_id": 
+
+89,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"08 ： 
+
+00-16 ： 00","o_tlc_agency_region":"7"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.kdps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市北投區中央北路￿ 4 段 581 
+
+號 ","o_tlc_agency_phone":"(02)2891-2847","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區關 
+
+渡國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2895-2910","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+90,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.tuyes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_607_599551_82264.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區中央北路￿ 3 段 40 巷 45 
+
+號 ","o_tlc_agency_phone":"(02)2894-1208","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區桃 
+
+源國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2892-7164","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_607_6982429_82264.jpg","_id": 
+
+91,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/web.spps.tp.edu.tw\/front\/ 
+
+bin\/home.phtml","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_609_529751_32198.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區致遠⼆￿路￿ 80 
+
+號 ","o_tlc_agency_phone":"(02)2822-7484","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區⽯￿ 
+
+牌國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2826-5257","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_609_5935855_32198.jpg","_id": 
+
+92,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.lnes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_610_5295063_98132.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區立農街 1 段 250 
+
+號 ","o_tlc_agency_phone":"(02)2821-0702","o_tlc_agency_purpose 
+
+":" 推動國⺠￿⼩￿學義務教育⼯￿作，並配合臺北市政府教育局辦理￿各推廣活 
+
+動 ","o_tlc_agency_email":"kuojong@cc.lnes.tp.edu.tw","o_tlc_ag 
+
+ency_name":" 臺北市北投區立農國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2828-1743","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_610_4317697_98132.jpg","_id": 
+
+93,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.cmps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_611_932735_86759.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區洲美街 185 
+
+號 ","o_tlc_agency_phone":"(02)2831-3619","o_tlc_agency_purpose 
+
+":" 擁有健康強壯的體魄具備尊重關懷的品德養成正確良好的習慣建立終⾝￿受⽤￿的能 
+
+⼒￿￿留￿下甜蜜美好的回憶　   　 
+
+","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區洲美國 
+
+⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2831-6084","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_611_5754578_86759.jpg","_id": 
+
+94,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mdes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_612_6026261_18023.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區明德路￿ 190 
+
+號 ","o_tlc_agency_phone":"(02)2822-9651","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區明 
+
+德國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2826-5417","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_612_7334781_18023.jpg","_id": 
+
+95,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wles.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市北投區⽂￿林￿北路￿ 155 
+
+號 ","o_tlc_agency_phone":"(02)2823-4212","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區⽂￿ 
+
+林￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2823-5854","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+96,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.htes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_615_8323762_11756.jpg","o_tlc_agency_address":" 臺北市北投 
+
+區⽵￿⼦￿湖路￿ 17 之 2 
+
+號 ","o_tlc_agency_phone":"(02)2861-6963","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區湖 
+
+⽥￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2861-1704","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_615_6471637_11756.png","_id": 
+
+97,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hses.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市北投區湖底路￿ 11 
+
+號 ","o_tlc_agency_phone":"(02)2861-0148","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市北投區湖 
+
+⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+98,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"7"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hhups.tp.edu.tw","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_617_3069102_85175.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區環⼭￿路￿ 1 段 25 
+
+號 ","o_tlc_agency_phone":"(02)2797-1267","o_tlc_agency_purpose
+
+":" 學校願景：健康、主動、尊重、宏 
+
+觀 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區⻄￿湖 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2799-6184","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"1. 營造知識管理￿與學習型校園，並期許 
+
+利￿⽤￿雲端概念￿彙整教師研究與教學風華，藉由網路￿累積與分享； 2. 持續發展體育性社 
+
+團，落￿實學⽣￿健康⽣￿活觀念￿； 3. 順應學校本位特⾊￿與師⽣￿專業優勢條件，提出以閱讀 
+
+為主軸，推動 E 化教學、英語教學與⽣￿態教學之『三億旗艦、喜悅幸福』【三 E ⿑￿進、 
+
+喜閱⻄￿湖】計畫，期望緊扣學校願景與特⾊￿課程，培育具備未來￿幸福⽣￿活能⼒￿￿的⻄￿湖 
+
+學⼦￿。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_617_3812199_85175.jpg","_id": 
+
+99,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_t 
+
+lc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.whups.tp.edu.tw","o_tlc_agency_img_front":"","o_tlc_agency 
+
+_address":" 臺北市內湖區⽂￿湖街 15 
+
+號 ","o_tlc_agency_phone":"(02)2658-3515","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區⽂￿ 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2799-4445","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+100,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.lnps.tp.eud.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_619_4823697_70544.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區港華街 100 
+
+號 ","o_tlc_agency_phone":"(02)2657-4158","o_tlc_agency_purpose 
+
+":" 麗⼭￿國⼩￿校訓：修⼰￿善 
+
+群 ","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區麗⼭￿ 
+
+國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2799-4484","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_619_2793113_70544.jpg","_id": 
+
+101,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.thes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_631_8336411_28977.jpg","o_tlc_agency_address":" 臺北市南港
+
+區興南街 62 
+
+號 ","o_tlc_agency_phone":"(02)2782-6531","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市南港區東 
+
+新國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2788-9935","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_631_5336659_28977.jpg","_id": 
+
+112,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"4"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.bhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_620_2649072_23123.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區⾦￿￿龍路￿ 100 
+
+號 ","o_tlc_agency_phone":"(02)2790-7161","o_tlc_agency_purpose 
+
+":" 培育碧湖國⼩￿兒童成為擁有⽣￿活⼒￿￿、⽣￿命⼒￿￿、意志⼒￿￿的新世紀兒童： 1. ⽣￿活⼒￿￿： 
+
+有解決⽇￿常⽣￿活問題的能⼒￿￿。 2. ⽣￿命⼒￿￿：熱愛⽣￿命、關愛他⼈￿。 3. 意志⼒￿￿：尋夢、追 
+
+夢，為理￿想執著，勇往直 
+
+前。 ","o_tlc_agency_email":"bhps@tp.edu.tw","o_tlc_agency_name" 
+
+:" 臺北市內湖區碧湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2794-6942","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"1. 落￿實教學正常，使學⽣￿能快樂學習與 
+
+健康成長  2. 推動各科教學改⾰￿，強化教材教法之研究，提昇教師專業素養   及知能   
+
+3. 辦理￿各項學藝活動，使學⽣￿潛能得以充分發揮，並延伸學習成效  4. 加強科學教 
+
+育，提昇學⽣￿對⾃￿然科學研究興趣及能⼒￿￿  5. 落￿實藝能科教育，增進審美能⼒￿￿，陶冶 
+
+優良情操  6. 推展資訊教育，提昇教師及學⽣￿電腦知能，使⼈￿⼈￿能有效應⽤￿各種資訊   
+
+7. 加強鄉⼟￿教學，陶冶愛家、愛鄉、愛國情操  8. 推展英語教學，使學⽣￿具多元學習 
+
+能⼒￿￿，並因應國際村的到來￿  9. 美化教學環境，佈置和宜的學習情境，以達到境教的 
+
+功能  10. 建立多元的教學評量￿，塑造無挫折的學習歷程，使學⽣￿快樂的學習  11. 規 
+
+劃九年￿⼀￿貫課程，因應課程改⾰￿及社會的需求  12. 辦理￿課後輔導，提供學⽣￿多元、多 
+
+樣化的學習  13. 充實教學設備，提供良好的學習設施，增進教學效 
+
+果 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_620_8791089_86749.jpg","_id": 
+
+102,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 週⼀￿⾄￿ 
+
+週五 07:40~16:30","o_tlc_agency_region":"8"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/ 
+
+www.dhps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市內湖區⼤￿湖⼭￿莊街 170 
+
+號 ","o_tlc_agency_phone":"(02)2791-5870","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區⼤￿
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+103,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/www.klps.tp.edu.tw\/ 
+
+enable2007","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_622_4903385_96698.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區星雲街 121 號 ","o_tlc_agency_phone":"(02)  
+
+2790-1237","o_tlc_agency_purpose":"","o_tlc_agency_email":""," 
+
+o_tlc_agency_name":" 臺北市內湖區康寧國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)  
+
+2794-1809","o_tlc_agency_admincategory":"","o_tlc_agency_servi 
+
+ce":"","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_622_118883_96531.jpg","_id": 
+
+104,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.nhes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市內湖區內湖路￿ 2 段 41 
+
+號 ","o_tlc_agency_phone":"(02)2799-8085","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區內 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+105,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.shes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市內湖區⺠￿權東路￿ 6 段 138 
+
+號 ","o_tlc_agency_phone":"(02)2796-3721","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區新 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2793-0050","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+106,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.tmes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_625_9082001_56084.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區新明路￿ 22
+
+號 ","o_tlc_agency_phone":"(02)2791-7334","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區潭 
+
+美國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2794-2271","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_625_7385653_56084.jpg","_id": 
+
+107,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.dfps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_626_8965788_41191.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區東湖路￿ 115 
+
+號 ","o_tlc_agency_phone":"(02)2633-9984","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區東 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2633-4163","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_626_9249796_41191.jpg","_id": 
+
+108,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mhups.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agen 
+
+cy_address":" 臺北市內湖區康寧路￿ 3 段 105 
+
+號 ","o_tlc_agency_phone":"(02)2632-3477","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區明 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2632-0173","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+109,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.lhes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_629_8183916_05614.jpg","o_tlc_agency_address":" 臺北市內湖 
+
+區⾦￿￿湖路￿ 363 巷 8 
+
+號 ","o_tlc_agency_phone":"(02)2634-3888","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市內湖區麗 
+
+湖國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2634-3855","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_629_7991066_05614.jpg","_id": 
+
+110,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"8"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yhes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_630_1658698_32953.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區向陽路￿ 31 
+
+號 ","o_tlc_agency_phone":"(02)2783-6049","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市南港區⽟￿ 
+
+成國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2788-1299","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_630_8375273_33230.jpg","_id": 
+
+111,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"4"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ctps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_632_4669985_05848.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區東新街 65 
+
+號 ","o_tlc_agency_phone":"(02)2785-1376","o_tlc_agency_purpose 
+
+":" 我們希望成德國⼩￿的每⼀￿位兒童是：   愛整潔    有禮貌    守秩序    重榮譽     勤￿ 
+
+讀書每⼀￿位教師能：關愛兒童     終⾝￿學習     多元教學    勇於創新    協同合作家長 
+
+們都願意：   愛⼼￿奉獻    熱⼼￿參￿與    耐⼼￿引導    親師合作    成長學習⾏￿￿政團隊都可以 
+
+做到：   主動敏捷     服務為先    品質第⼀￿     權變領導    和諧共 
+
+榮 ","o_tlc_agency_email":"hikanty@yahoo.com.tw","o_tlc_agency_ 
+
+name":" 臺北市南港區成德國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2785-5253","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 如果說教育的起點是有教無類，過程是 
+
+因材施教，終點是⽌￿於⾄￿善，那麼教育的核⼼￿應該在兒童；教育的骨幹應該在教師。 
+
+學校同仁和全體家長強調教育的本質在「發展⼈￿性、培養⼈￿格、改善⼈￿⽣￿」。教育是 
+
+要教導學⽣￿「學會學習、學會⽣￿存、學會⽣￿活、學會愛及與⼈￿相處的能⼒￿￿」   為了￿要 
+
+達到上述⽬￿標，學校應該透過各種⽅￿法和策略￿，讓：   ◎        每⼀￿個學⽣￿都能發揮 
+
+它的潛能與善性，   ◎        開拓￿他的⼼￿靈與智慧。   ◎        都能因為經過教育的 
+
+洗禮⽽￿改變氣質，朝真、善、美的⽅￿向去發展。為了￿達到「溫馨、活⼒￿￿、卓越」的學 
+
+校校願景，學校也應該透過各種⽅￿法和策略￿去：   形塑互尊互重的優質校園⽂￿化，每 
+
+位師⽣￿員⼯￿因⽽￿能：彼此體諒、溫馨關懷。   規劃設計推展豐富多元的活動，每位師 
+
+⽣￿員⼯￿因⽽￿能：激發潛能、展現活⼒￿￿。   體察世界變化脈絡，規劃適切課程，每位師 
+
+⽣￿員⼯￿能：⾃￿我成長、追求卓越。經過上述的努⼒￿￿，我們希望成德國⼩￿顯現出來￿的具 
+
+體指標是：   ★        學校氣氛是互敬互重，彼此關懷，寧靜安祥、團結和諧。   ★        
+
+校園環境是整整⿑￿⿑￿、乾乾淨淨，四季花開，時時飄香。   ★        教師教學是認
+
+真、負責，並具有耐⼼￿。   ★        學⽣￿⾏￿￿為活潑⽽￿不輕佻，乖巧⽽￿不呆板，機伶卻 
+
+不投機，純潔但不愚昧。   ★        每⼀￿個學⽣￿都具備有良好的基本學習能⼒￿￿。   ★        
+
+開⼝￿都能說得體合宜的話。   ★        提筆都能寫通順流利￿的⽂￿章。不但★        
+
+都具備基本的英語能⼒￿￿。   ★        和資訊知能。同時也★        都能妥善處理￿⾃￿ 
+
+⼰￿的情緒，成為⼀￿個樂觀進取、合群快樂的⼩￿天 
+
+使。 ","o_tlc_agency_img_inner":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_632_330339_05848.jpg","_id": 
+
+113,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" ＊週⼀￿ 
+
+⾄￿週五　　　上午 05:00-06:30 　　　下午 17:30-21:00 ＊週六⾄￿週⽇￿　　　全天 
+
+05:00-21:00  註：   歡迎社區居⺠￿使⽤￿，本校⽬￿前僅開放「學校操場」。　　   若￿您 
+
+有任何問題，請聯￿絡總務處， TEL:2785-1376 轉 
+
+51","o_tlc_agency_region":"4"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.nkps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_633_3897456_59207.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區惠⺠￿街 67 
+
+號 ","o_tlc_agency_phone":"(02)2783-4678","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市南港區南 
+
+港國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2788-1427","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_633_3194437_56703.jpg","_id": 
+
+114,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"4"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.sdps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_634_9091509_27038.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區東新街 118 巷 86 
+
+號 ","o_tlc_agency_phone":"(02)2788-0500","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市南港區修 
+
+德國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2785-0983","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_634_5651131_27038.jpg","_id": 
+
+115,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"4"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.zzes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/
+
+agency_635_4563601_10220.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區舊莊街 1 段 100 
+
+號 ","o_tlc_agency_phone":"(02)2782-1418","o_tlc_agency_purpose 
+
+":" 本校於⺠￿國 44 年￿ 9 ⽉￿成立，教育宗旨務務使學⽣￿能快樂學習、活潑成 
+
+長。 ","o_tlc_agency_email":"zzes2011@gmail.com","o_tlc_agency_n 
+
+ame":" 臺北市南港區舊莊國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2653-0954","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 幼兒園、特教班、⼩￿學⼀￿⾄￿六年￿級普通 
+
+班、成⼈￿教育班。 ","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_635_5185205_71482.jpg","_id": 
+
+116,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 後⼭￿開 
+
+放⺠￿眾活動時間：週⼀￿⾄￿週五下午４點放學後，週六、週⽇￿⽇￿間開 
+
+放。 ","o_tlc_agency_region":"4"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.hsps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_636_7509187_12148.jpg","o_tlc_agency_address":" 臺北市南港 
+
+區舊莊街 1 段 1 
+
+號 ","o_tlc_agency_phone":"(02)2782-4949","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市南港區胡 
+
+適國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2788-2813","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_636_7870973_12148.jpg","_id": 
+
+117,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"4"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.yjps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_637_918696_26434.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區試院路￿ 2 
+
+號 ","o_tlc_agency_phone":"(02)2236-3855","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區永 
+
+建國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2236-6024","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_637_7894520_26833.jpg","_id": 
+
+118,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mjes.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc
+
+y_address":" 臺北市⽂￿⼭￿區⽊￿柵路￿ 3 段 191 
+
+號 ","o_tlc_agency_phone":"(02)2939-1234","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區⽊￿ 
+
+柵國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+119,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.mdps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區⽊￿柵路￿ 2 段 138 巷 61 
+
+號 ","o_tlc_agency_phone":"(02)2939-2821","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區明 
+
+道國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+120,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.es.nccu.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區指南路￿ 3 段 12 
+
+號 ","o_tlc_agency_phone":"(02)2939-3610","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 國立政治⼤￿學附 
+
+設實驗國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+121,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wnses.tp.edu.tw","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_643_8096439_78163.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區秀明路￿ 2 段 114 
+
+號 ","o_tlc_agency_phone":"(02)2938-1721","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區萬 
+
+興國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2939-7813","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_643_3520699_78216.jpg","_id": 
+
+122,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wfes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_644_1497982_70847.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區萬和街 1 號 ","o_tlc_agency_phone":"(02)2230-1232 ， 
+
+2230-3855","o_tlc_agency_purpose":" 健康、快樂、成 
+
+長 ","o_tlc_agency_email":"wfes@wfes.tp.edu.tw","o_tlc_agency_n 
+
+ame":" 臺北市⽂￿⼭￿區萬芳國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2230-1009 ， 
+
+2230-4942","o_tlc_agency_admincategory":"","o_tlc_agency_servi 
+
+ce":" 提供優質⼩￿學教育 ","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_644_317885_80247.jpg","_id": 
+
+123,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.bjps.tp.edu.tw","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_645_3467164_54509.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區⽊￿柵路￿ 4 段 159 巷 14-1 
+
+號 ","o_tlc_agency_phone":"(02)2230-2585","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區博 
+
+嘉國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2230-0430","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" 校園運動場除上課時間外全⽇￿開放圖書 
+
+室開放周⼀￿⾄￿周五 08:00~16:00","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_645_1241683_54509.jpg","_id": 
+
+124,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.lsps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_646_8383307_31890.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區⽊￿新路￿ 3 段 155 巷 7 
+
+號 ","o_tlc_agency_phone":"(02)2936-3995","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區⼒￿￿ 
+
+⾏￿￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2936-6055","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_646_8685049_31890.jpg","_id": 
+
+125,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.zjps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc
+
+y_address":" 臺北市⽂￿⼭￿區忠順街 1 段 4 
+
+號 ","o_tlc_agency_phone":"(02)2936-0725","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區實 
+
+踐國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2936-3349","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+126,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.cmes.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_649_8417090_78426.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區景⽂￿街 108 
+
+號 ","o_tlc_agency_phone":"(02)2932-2151","o_tlc_agency_purpose 
+
+":" 健康    活⼒￿￿    創新    希 
+
+望 ","o_tlc_agency_email":"cmesit@ms1.cmes.tp.edu.tw","o_tlc_ag 
+
+ency_name":" 臺北市⽂￿⼭￿區景美國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2933-2155","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_649_8613119_78426.jpg","_id": 
+
+127,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.jcps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區景福街 21 巷 5 
+
+號 ","o_tlc_agency_phone":"(02)2932-3875","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區志 
+
+清國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2933-2021","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"" 
+
+,"_id": 
+
+128,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.skps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_651_9647396_45826.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區景福街 225 
+
+號 ","o_tlc_agency_phone":"(02)2935-0955","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區溪 
+
+⼝￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2934-7444","o_tlc_agency_admincate
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_651_2435756_15015.jpg","_id": 
+
+129,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wfps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區羅斯福路￿ 5 段 170 巷 32 
+
+號 ","o_tlc_agency_phone":"(02)2935-3123","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區萬 
+
+福國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+130,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.wkps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區興隆￿路￿ 1 段 68 
+
+號 ","o_tlc_agency_phone":"(02)2931-4360","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區武 
+
+功國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+131,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.chps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_654_2749871_75288.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區景華街 150 巷 21 
+
+號 ","o_tlc_agency_phone":"(02)2932-9438","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區景 
+
+興國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2931-2161","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_654_3842645_75134.jpg","_id": 
+
+132,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hdps.tp.edu.tw\/","o_tlc_agency_img_front":"","o_tlc_agenc 
+
+y_address":" 臺北市⽂￿⼭￿區興隆￿路￿ 2 段 235 
+
+號 ","o_tlc_agency_phone":"(02)2932-9431","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區興
+
+德國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"","_id": 
+
+133,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.hlps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_657_5392837_82523.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區福興路￿ 2 
+
+號 ","o_tlc_agency_phone":"(02)2932-3131","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區興 
+
+隆￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2930-4341","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_657_236936_82523.jpg","_id": 
+
+134,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/tw.school.uschoolnet.com\/? 
+
+id=es00000113","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_658_4913353_71249.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區辛亥路￿ 4 段 103 
+
+號 ","o_tlc_agency_phone":"(02)2935-7282","o_tlc_agency_purpose 
+
+":" 愛 , 學習 , 傳 
+
+承 ","o_tlc_agency_email":"saes@tp.edu.tw","o_tlc_agency_name": 
+
+" 臺北市⽂￿⼭￿區辛亥國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2935-7287","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":" （⼀￿）推動深耕閱讀計畫（⼆￿）積極推 
+
+動藝術與⼈￿⽂￿教育（三）進⾏￿￿創意英語教學活動（四）健康促進活動（五）深耕武術 
+
+教學（六）推動安全學校（七）教學環境暨教學設備改善（八）辦理￿親職教育相關活 
+
+動（九）推動友善校園輔導相關活動 ","o_tlc_agency_img_inner":"http:\/ 
+
+\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_658_1040758_71249.jpg","_id": 
+
+135,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" 學⽣￿在 
+
+校上課時間 ","o_tlc_agency_region":"1"}, 
+
+{"o_tlc_agency_categorychild":" ⼩￿學 ","o_tlc_agency_link":"http: 
+
+\/\/www.hhps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_659_4072188_80519.jpg","o_tlc_agency_address":" 臺北市⽂￿⼭￿ 
+
+區興隆￿路￿ 3 段 125 巷 6 
+
+號 ","o_tlc_agency_phone":"(02)2239-3070","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市⽂￿⼭￿區興
+
+華國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":"","o_tlc_agency_img_inner":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_659_4096171_80519.jpg","_id": 
+
+136,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"1"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":"http:\/\/ 
+
+www.ssps.tp.edu.tw\/","o_tlc_agency_img_front":"http:\/\/ 
+
+www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_667_675042_78278.jpg","o_tlc_agency_address":" 臺北市松⼭￿ 
+
+區八德路￿ 4 段 746 
+
+號 ","o_tlc_agency_phone":"(02)2767-2907","o_tlc_agency_purpose 
+
+":"","o_tlc_agency_email":"","o_tlc_agency_name":" 臺北市松⼭￿區松 
+
+⼭￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"(02)2767-9449","o_tlc_agency_admincate 
+
+gory":"","o_tlc_agency_service":"","o_tlc_agency_img_inner":"h 
+
+ttp:\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_667_5655498_78278.jpg","_id": 
+
+137,"o_tlc_agency_category":"1","o_tlc_agency_opentime":"","o_ 
+
+tlc_agency_region":"9"},{"o_tlc_agency_categorychild":" ⼩￿ 
+
+學 ","o_tlc_agency_link":" ⿊￿快⾺￿測試 
+
+1","o_tlc_agency_img_front":"http:\/\/www.lct.tp.edu.tw\/ 
+
+ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_674_8102257_94370.png","o_tlc_agency_address":" 台北市中正 
+
+區忠孝東路￿⼆￿段 94 號 4 
+
+樓￿ ","o_tlc_agency_phone":"","o_tlc_agency_purpose":" ⿊￿快⾺￿測試 
+
+1","o_tlc_agency_email":"jerry_chen@heimavista.com","o_tlc_age 
+
+ncy_name":"( 測試資料 ) ⿊￿快⾺￿國⺠￿⼩￿ 
+
+學 ","o_tlc_agency_fax":"","o_tlc_agency_admincategory":"","o_t 
+
+lc_agency_service":" ⿊￿快⾺￿測試 1","o_tlc_agency_img_inner":"http: 
+
+\/\/www.lct.tp.edu.tw\/ezfiles\/1\/1001\/agency\/1\/ 
+
+agency_674_226318_94370.png","_id": 
+
+138,"o_tlc_agency_category":"1","o_tlc_agency_opentime":" ⿊￿快⾺￿ 
+
+測試 1","o_tlc_agency_region":"11"}]}}
