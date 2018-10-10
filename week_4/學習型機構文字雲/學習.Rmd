@@ -1,11 +1,11 @@
 ---
 title: "用R進行中文 text Mining   政府開放資料"
 output: html_document
-
+---
 此次資料是 學習型機構資料集描述
 連結：https://data.taipei/dataset/detail/metadata?id=ac589468-529b-4636-a9b2-ab57ae41cbcb
 https://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&rid=24c9f8fe-88db-4a6e-895c-498fbc94df94
----
+
 前置作業
 ```{r}
 #清空所有記憶體
@@ -107,20 +107,3 @@ wordcloud(freqFrame$Var1,freqFrame$Freq,
 而在內湖、北投、萬華
 注重教師、家長
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
