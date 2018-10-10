@@ -18,13 +18,38 @@ library(jiebaRD)
 library(jiebaR) #中文斷詞 
 library(RColorBrewer)
 library(wordcloud) #產生文字雲
+
 ```
 
-抓取政府開放資料txt檔
+抓取政府開放資料api
 ```{r}
-filenames <- list.files(getwd(), pattern="*.txt")
-files <- lapply(filenames, readLines, encoding="UTF-8")
-docs <- Corpus(VectorSource(files))
+# Taipei api http://oops.gov.taipei/
+library(jsonlite)
+library(RCurl)
+library(rvest)
+# 學習型機構資料集描述json url
+
+link <- url(paste('https://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&rid=24c9f8fe-88db-4a6e-895c-498fbc94df94'))
+phwash = read_html(link)
+docs <- Corpus(VectorSource(phwash))
+
+
+
+#url <- 'https://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&rid=24c9f8fe-88db-4a6e-895c-498fbc94df94'
+#jsonData<-fromJSON(getURL("https://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&rid=24c9f8fe-88db-4a6e-895c-498fbc94df94"))
+#str( jsonData)
+
+#Get it with jsonlite package
+#jsonData <- fromJSON(url, flatten = TRUE)
+
+#Write it into csv.
+#docs <-write.csv(file = 'test.csv', jsonData , fileEncoding = 'utf-8')
+#docs <- read.table(docs, header = T, row.names = 1, sep = ",")
+#docs <- as.matrix(docs)
+
+```
+
+
 ```
 
 開始文字處理
@@ -43,10 +68,10 @@ docs <- tm_map(docs, toSpace, "了")
 docs <- tm_map(docs, toSpace, "至")
 docs <- tm_map(docs, toSpace, "子")
 docs <- tm_map(docs, toSpace, "用")
-docs <- tm_map(docs, toSpace, "一")
-docs <- tm_map(docs, toSpace, "三")
 docs <- tm_map(docs, toSpace, "有")
-docs <- tm_map(docs, toSpace, "以")
+docs <- tm_map(docs, toSpace, "之")
+docs <- tm_map(docs, toSpace, "段號")
+docs <- tm_map(docs, toSpace, "在")
 docs <- tm_map(docs, toSpace, "為")
 docs <- tm_map(docs, toSpace, "用")
 docs <- tm_map(docs, toSpace, "段")
@@ -62,6 +87,10 @@ docs <- tm_map(docs, toSpace, "路")
 docs <- tm_map(docs, toSpace, "之")
 docs <- tm_map(docs, toSpace, "日")
 docs <- tm_map(docs, toSpace, "中")
+docs <- tm_map(docs, toSpace, "一")
+docs <- tm_map(docs, toSpace, "三")
+docs <- tm_map(docs, toSpace, "並")
+docs <- tm_map(docs, toSpace, "使")
 
 #移除標點符號 (punctuation)
 #移除數字 (digits)、空白 (white space)
@@ -102,8 +131,16 @@ wordcloud(freqFrame$Var1,freqFrame$Freq,
           ordered.colors=FALSE,use.r.layout=FALSE,
           fixed.asp=TRUE)
 ```
-發現
-這份文件是以台北市為主
-而在內湖、北投、萬華
-注重教師、家長
+
+
+分析觀察心得：
+
+這份是政府學習型機構資料集描述
+學習型機構，或稱 學習型組織，是指企業透過「組織學習」實現員工知識更新和保持企業創新能力理論和實踐。
+
+發現這份文件是以台北市國民小學為主
+而在內湖、北投、萬華、信義、文山區 設立比較多學習型機構
+多數重視、追求的概念有
+注重教育、發展、環境、多元、英文...
+在教師、孩子、家長三方角色也都有特別在意能
 

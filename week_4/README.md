@@ -20,7 +20,7 @@
 。試著優化文字雲
 
 政府學習型機構資料文字雲：
-https://tallya851109.github.io/CSX_RProject/week_4/學習型機構文字雲/學習.html
+https://tallya851109.github.io/CSX_RProject/week_4/學習型機構文字雲/政府api學習型機構資料.html
 
 京东区块链技术实践白皮书文字雲：
 https://tallya851109.github.io/CSX_RProject/week_4/區塊鏈文字雲/區塊鏈文字雲.html
