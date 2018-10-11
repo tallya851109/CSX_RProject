@@ -1,21 +1,31 @@
-#install.packages("leaflet")
+---
+title: "互動地圖"
+output: html_document
+---
+前置作業
+```{r}
 library(ggplot2)
 library(maps)
 library(ggmap)
 library(leaflet)
+```
 
+
+```{r}
 m <- leaflet()
 at <- addTiles(m)
 addMarkers(at,lng=121.549767, lat=25.051346, popup="這裡是小巨蛋")
 
 #leaflet()%>%addTiles()%>%addMarkers(lng=121.549767, lat=25.051346, popup="這裡是小巨蛋")
+```
 
-
+```{r }
 m<- leaflet()
 m<- setView(m,lng=121,lat=24.5,zoom=9)
 addTiles(m)
+```
 
-
+```{r}
 df = data.frame(
   lat = runif(100,min=0,max=70),
   lng = runif(100,min=0,max=160),
@@ -25,4 +35,6 @@ df = data.frame(
 m <- leaflet(data=df)
 m<- addTiles(m)
 addCircleMarkers(m,lng=~lng,lat=~lat,radius = ~size, color = ~co, fill = TRUE)
+
+```
 
