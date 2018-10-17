@@ -17,7 +17,7 @@
 
 。完成week_5作業
 
-迪士尼攻略（上海、東京、加州）文字雲：
+加州迪士尼旅遊分享：
 https://tallya851109.github.io/CSX_RProject/week_5/加州迪士尼分享.html
 
 
