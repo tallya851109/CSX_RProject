@@ -9,7 +9,7 @@
 。完成一份_________-上傳至資料夾中，須繳交兩份檔案[.Rmd, .html)]
 
 
-<10.4~10.10家裡的進度>
+<10.11~10.18家裡的進度>
 
 。尋找有興趣的資料
 
@@ -18,7 +18,7 @@
 。完成week_5作業
 
 迪士尼攻略（上海、東京、加州）文字雲：
-https://tallya851109.github.io/CSX_RProject/week_5
+https://tallya851109.github.io/CSX_RProject/week_5/加州迪士尼分享.html
 
 
 
