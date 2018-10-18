@@ -2,9 +2,11 @@
 title: "加州迪士尼網路旅遊分享"
 output: html_document
 ---
-因為想去加州迪士尼玩，所以這次以google“加州迪士尼”搜尋到的首頁旅遊分享作為這次分析的文本
+想分析熱門旅遊遊記常用到的詞彙與不同旅遊分享平台（部落格、pixnet、kkday...）用字的差異
 
-選了找了9篇，看看其內容有什麼重要資訊
+此次先以google“加州迪士尼”搜尋到的旅遊分享作為這次分析的文本
+
+未來想擴大範圍，大量分析、比較這些高點擊率的旅遊分享用字或分享了哪些資訊～
 
 Load required libraries.
 ```{r}
@@ -26,7 +28,7 @@ library(wordcloud)
 
 載入資料
 ```{r}
-#setwd("~/Desktop/CSX_RProject/week_5/迪士尼攻略txt檔")
+setwd("~/Desktop/CSX_RProject/week_5/加州迪士尼分享txt檔")
 rawData = readtext("*.txt")
 docs = Corpus(VectorSource(rawData$text))
 length(docs)
@@ -60,7 +62,6 @@ docs <- tm_map(docs, toSpace, "了")
 docs <- tm_map(docs, toSpace, "們")
 docs <- tm_map(docs, toSpace, "是")
 docs <- tm_map(docs, toSpace, "在")
-docs <- tm_map(docs, toSpace, "像是")
 docs <- tm_map(docs, toSpace, "先祝")
 docs <- tm_map(docs, toSpace, "內")
 docs <- tm_map(docs, toSpace, "的")
@@ -72,7 +73,6 @@ docs <- tm_map(docs, toSpace, "和")
 docs <- tm_map(docs, toSpace, "就")
 docs <- tm_map(docs, toSpace, "看")
 docs <- tm_map(docs, toSpace, "很")
-docs <- tm_map(docs, toSpace, "我")
 docs <- tm_map(docs, toSpace, "來")
 docs <- tm_map(docs, toSpace, "著")
 docs <- tm_map(docs, toSpace, "為")
@@ -183,5 +183,8 @@ wordcloud(freqFrame$Var1,freqFrame$Freq,
 ```
 
 Conclusion
-透過這次分析, 我知道
-
+因為此次是迪士尼旅遊分享，所以主題明確，每一篇也都會被提到
+可以發現旅遊中的活動名稱很多都有被顯示出來
+而“可以”、“有”、“能”、“你”、“我”是很大量會用到的詞
+因為此次文本不夠多，所以能觀察到的事情就有限
+之後想多嘗試，可能有其他發現
