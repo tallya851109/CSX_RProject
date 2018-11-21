@@ -14,20 +14,20 @@ library(parallel)
 library(plyr)
 library(progress)
 
-char_encode=URLencode(iconv('Maintenance_mask',to= 'UTF-8' ))
+library("XML")
+#write.csv(table1[[1]], file = "Desktop")
+######################## 2. Request: GET - 請求保養面膜產品面 ##############################]
 
-######################## 1. Request: GET - 請求臉部防曬產品面 ##############################]
-
-# 臉部防曬product的資料庫
-product_sunscreen_data<-data.frame()
+# 保養面膜product的資料庫
+product_mask_data<-data.frame()
 
 #寫個迴圈，對固定網頁結構重複抓取
-product_numbers <- c(85434, 85531, 57764,85617,79069,79852,85937,68153,21546,86219)
+product_numbers <- c(68098, 81075, 78839,86843,86401 ,87996, 86402,86752,83472,86842,86604,85612,75858,87180,87182)
 
-for (i in product_numbers) {
+for (q in product_numbers) {
   
   # 這裡分各項名稱抓取資料--------
-  num_product <- i
+  num_product <- q
   url_product=sprintf("https://www.urcosme.com/products/%s",num_product)
   doc_product<- GET(url_product) %>% content(encoding = "utf8")
   
@@ -121,109 +121,13 @@ for (i in product_numbers) {
                              purchase = ifelse(length(purchase)==0,NA,purchase),
                              price = ifelse(length(price)==0,NA,price))
   
-  
   #把此次資料輸到新的資料庫中
-  product_sunscreen_data<-rbind(product_sunscreen_data,product_info)  
+  product_mask_data<-rbind(product_mask_data,product_info)  
 }
 
-#輸出結果  View(product_sunscreen_data)
+#輸出結果 
+View(product_mask_data)
+#輸出型態 str(product_mask_data)
 
-#====================lable進行統計================
+write.csv(  product_mask_data,file="Home\\Desktop\\  product_mask_data.csv",row.names = T)
 
-#取出特定欄位 
-product_sunscreen_data$label
-docs <- Corpus(VectorSource(product_sunscreen_data$label))
-
-#library
-
-library(NLP)
-library(tm) #文字探勘
-library(jiebaRD)
-library(jiebaR) #中文斷詞 
-library(RColorBrewer)
-library(wordcloud) #產生文字雲
-
-#移除可能有問題的符號
-toSpace <- content_transformer(function(x, pattern) {
-  return (gsub(pattern, " ", x))
-}
-)
-#移除標點符號 (punctuation)
-#移除數字 (digits)、空白 (white space)
-docs <- tm_map(docs, removePunctuation)
-docs <- tm_map(docs, removeNumbers)
-docs <- tm_map(docs, stripWhitespace)
-
-
-#結巴字典
-mixseg = worker()
-jieba_tokenizer=function(d){
-  unlist(segment(d[[1]],mixseg))
-}
-seg = lapply(docs, jieba_tokenizer)
-freqFrame = as.data.frame(table(unlist(seg)))
-
-
-
-library("jiebaR")
-Sys.setlocale(category = "LC_ALL", locale = "cht")
-
-
-library(wordcloud)
-
-par(family=("HeitiTC Light"))
-
-mixseg = worker()
-jieba_tokenizer=function(d){
-  unlist(segment(d[[1]],mixseg))
-}
-par(family=("Heiti TC Light"))
-
-wordcloud(freqFrame$Var1,freqFrame$Freq,
-          scale=c(5,0.5),min.freq=10,max.words=50,
-          random.order=FALSE, random.color=TRUE, 
-          rot.per=0, colors=brewer.pal(8, "Dark2"),
-          ordered.colors=FALSE,use.r.layout=FALSE,
-          fixed.asp=TRUE)
-
-
-#===========================================================================
-#library
-library(xml2)
-library(rvest)
-library(stringr)
-library(readr)
-library(dplyr)
-
-# EXAMPLE A (防曬 各label統計) (畫長條圖)
-###
-
-label_count <- product_sunscreen_data$label %>% unlist %>% count 
-label_count = label_count[rev(order(label_count$freq)),]
-
-label_count <-as.data.frame(label_count)
-#只取有在tag_list中的
-
-label_count_ggplot<-ggplot(label_count, aes(x = label) + 
-  geom_bar(stat = "identity", fill='lightblue') + 
-  labs(x='label',title='防曬標籤數量統計') + 
-  theme(panel.background = element_blank(),
-        axis.title = element_text(color = '#2d2d2d'),
-        axis.text.x = element_text(hjust = 1, size=15),
-        axis.text.y = element_text(hjust = 1, size=15),
-        strip.text.x = element_text(color='#2d2d2d',face='bold',size=10),
-        plot.title = element_text(hjust=0.5,face='bold',size=15))
-label_count_ggplot
-
-my.plot2 <- ggplot(label_count, aes(x = label))
-my.plot2 <- my.plot2 + layer(
-  geom = "bar",
-  stat = "bin",
-  position = "identity",
-  params = list(
-    fill = "steelblue",
-    binwidth = 0.2,
-    na.rm = FALSE
-  )
-)
-my.plot2

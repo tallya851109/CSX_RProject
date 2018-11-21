@@ -1,21 +1,20 @@
----
-title: "各品項分群"
-output: html_document
----
-```{r cars}
-summary(cars)
-```
-分別 保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
-
-```{r}
 library(tidyverse)
 library(knitr)
 library(readxl)
-```
+#install.packages("extrafont");
+# ggplot font size
+#亂碼方框
 
-```{r}
-#讀進來的資料：
+#library(extrafont)
+loadfonts()
+par(family="Noto Sans CJK TC") 
+
 保養面膜 <- read_excel("~/Desktop/各品項爬蟲資料/保養面膜.xlsx")
+
+#保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
+
+#讀進來的資料：
+
 str(保養面膜)
 kable(保養面膜[1:5,])
 
@@ -35,9 +34,15 @@ kable(保養面膜[1:5,])
 
 kable(保養面膜[1:5, ])
 
+tmp <- cbind(
+  保養面膜[, -c(6,8:12)]
+)
+
 保養面膜 <- cbind(
   保養面膜[, -c(6:12)]
 )
+
+
 kable(保養面膜[1:5,])
 
 library(reshape2)
@@ -72,7 +77,7 @@ hclust(Distance, method = 'complete') %>% plot()
 # Implement Kmeans Algorithm:
 
 set.seed(500) # remove the random effect
-K <- kmeans(保養面膜,2)
+K <- kmeans(保養面膜,3)
 
 ClusterResult <- cbind(
   保養面膜,
@@ -86,13 +91,11 @@ table(ClusterResult$Cluster)
 #納入主成份分析
 library(ggfortify)
 set.seed(500)
-autoplot(kmeans(保養面膜[,1:5], 2), data  = 保養面膜)
+autoplot(kmeans(tmp[1:5], 3), data  = tmp) + 
+  geom_text(aes(label=name),hjust=0, vjust=0)+ 
+  theme(text = element_text(family = "Noto Sans CJK TC"))
 
-```
-
-
-
-```{r}
+#_________________________
 唇膏爬蟲 <- read_excel("~/Desktop/各品項爬蟲資料/唇膏爬蟲.xlsx")
 
 #保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
@@ -117,6 +120,10 @@ kable(唇膏爬蟲[1:5,])
   )
 
 kable(唇膏爬蟲[1:5, ])
+
+tmp <- cbind(
+  唇膏爬蟲[, -c(6,8:12)]
+)
 
 唇膏爬蟲 <- cbind(
   唇膏爬蟲[, -c(6:12)]
@@ -169,10 +176,11 @@ table(ClusterResult$Cluster)
 #納入主成份分析
 library(ggfortify)
 set.seed(500)
-autoplot(kmeans(唇膏爬蟲[,1:5], 3), data  = 唇膏爬蟲)
-```
+autoplot(kmeans(唇膏爬蟲[,1:5], 3), data = tmp) + 
+  geom_text(aes(label=name),hjust=0, vjust=0)+ 
+  theme(text = element_text(family = "Noto Sans CJK TC"))
 
-```{r}
+#_________________________
 睫毛爬蟲 <- read_excel("~/Desktop/各品項爬蟲資料/睫毛爬蟲.xlsx")
 
 #保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
@@ -197,6 +205,10 @@ kable(睫毛爬蟲[1:5,])
   )
 
 kable(睫毛爬蟲[1:5, ])
+
+tmp <- cbind(
+  睫毛爬蟲[, -c(6,8:12)]
+)
 
 睫毛爬蟲 <- cbind(
   睫毛爬蟲[, -c(6:12)]
@@ -249,10 +261,13 @@ table(ClusterResult$Cluster)
 #納入主成份分析
 library(ggfortify)
 set.seed(500)
-autoplot(kmeans(睫毛爬蟲[,1:5], 4), data  = 睫毛爬蟲)
-```
+autoplot(kmeans(睫毛爬蟲[,1:5], 4), data = tmp) + 
+  geom_text(aes(label=name),hjust=0, vjust=0)+ 
+  theme(text = element_text(family = "Noto Sans CJK TC"))
 
-```{r}
+
+#_________________________
+
 篩紅爬蟲 <- read_excel("~/Desktop/各品項爬蟲資料/篩紅爬蟲.xlsx")
 
 #保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
@@ -278,10 +293,12 @@ kable(篩紅爬蟲[1:5,])
 
 kable(篩紅爬蟲[1:5, ])
 
-篩紅爬蟲<- cbind(
+tmp <- cbind(
+  篩紅爬蟲[, -c(6,8:12)]
+)
+篩紅爬蟲 <- cbind(
   篩紅爬蟲[, -c(6:12)]
 )
-kable(篩紅爬蟲[1:5,])
 
 library(reshape2)
 
@@ -329,11 +346,12 @@ table(ClusterResult$Cluster)
 #納入主成份分析
 library(ggfortify)
 set.seed(500)
-autoplot(kmeans(篩紅爬蟲[,1:5], 3), data  = 篩紅爬蟲)
+autoplot(kmeans(篩紅爬蟲[,1:5], 3), data  = tmp) + 
+  geom_text(aes(label=name),hjust=0, vjust=0)+ 
+  theme(text = element_text(family = "Noto Sans CJK TC"))
 
-```
+#_________________________
 
-```{r}
 臉部防曬 <- read_excel("~/Desktop/各品項爬蟲資料/臉部防曬.xlsx")
 
 #保養面膜  唇膏爬蟲 睫毛爬蟲 篩紅爬蟲 臉部防曬
@@ -358,6 +376,10 @@ kable(臉部防曬[1:5,])
   )
 
 kable(臉部防曬[1:5, ])
+
+tmp <- cbind(
+  臉部防曬[, -c(6,8:12)]
+)
 
 臉部防曬 <- cbind(
   臉部防曬[, -c(6:12)]
@@ -410,6 +432,9 @@ table(ClusterResult$Cluster)
 #納入主成份分析
 library(ggfortify)
 set.seed(500)
-autoplot(kmeans(臉部防曬[,1:5], 4), data  = 臉部防曬)
-```
+autoplot(kmeans(臉部防曬[,1:5], 4), data  = tmp) + 
+  geom_text(aes(label=name),hjust=0, vjust=0)+ 
+  theme(text = element_text(family = "Noto Sans CJK TC"))
+
+
 
