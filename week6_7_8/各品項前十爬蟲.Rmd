@@ -1,6 +1,8 @@
-# install.packages(c('httr', 'rvest', 'XML', 'magrittr', 'DT', 'stringr', 'jsonlite', 'RCurl','data.table',
-#                    'progress', 'plyr'))
-
+---
+title: "各品項前十資訊"
+output: html_document
+---
+```{r}
 ######################## library loaded ##############################
 library(httr) # 爬蟲 GET()
 library(rvest)
@@ -15,7 +17,9 @@ library(plyr)
 library(progress)
 
 library("XML")
-#write.csv(table1[[1]], file = "Desktop")
+```
+
+```{r}
 ######################## 1. Request: GET - 請求臉部防曬產品面 ##############################]
 
 # 臉部防曬product的資料庫
@@ -131,6 +135,9 @@ View(product_sunscreen_data)
 write.csv( product_sunscreen_data,file="Home\\Desktop\\ product_sunscreen_data.csv",row.names = T)
 #取出特定欄位 
 #product_sunscreen_data$label
+```
+
+```{r}
 ######################## 2. Request: GET - 請求保養面膜產品面 ##############################]
 
 # 保養面膜product的資料庫
@@ -246,8 +253,9 @@ View(product_mask_data)
 
 write.csv(  product_mask_data,file="Home\\Desktop\\  product_mask_data.csv",row.names = T)
 
-######################## 3. Request: GET - 請求腮紅產品面 ##############################]
+```
 
+```{r cars}
 # 保養面膜product的資料庫
 product_cheek_data<-data.frame()
 
@@ -361,8 +369,9 @@ View(product_cheek_data)
 #輸出型態 str(product_cheek_data)
 write.csv(  product_cheek_data,file="Home\\Desktop\\  product_cheek_data.csv",row.names = T)
 
+```
 
-
+```{r}
 ######################## 4. Request: GET - 請求唇膏產品面 ##############################]
 
 
@@ -481,6 +490,10 @@ View(product_Lip_data)
 #輸出型態 str(product_Lip_data)
 
 write.csv(  product_Lip_data,file="Home\\Desktop\\ product_Lip_data.csv",row.names = T)
+```
+
+
+```{r}
 ######################## 5. Request: GET - 請求睫毛膏產品面 ##############################]
 
 
@@ -598,4 +611,11 @@ for (q in product_numbers) {
 View(product_mascara_data)
 #輸出型態 str(product_mascara_data)
 write.csv(  product_mascara_data,file="Home\\Desktop\\  product_mascara_dataa.csv",row.names = T)
+
+
+```
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
 

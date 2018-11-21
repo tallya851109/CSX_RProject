@@ -1,0 +1,162 @@
+---
+title: "label文字雲"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+#清空所有記憶體
+rm(list=ls(all.names = TRUE))
+library(NLP)
+library(tm) #文字探勘
+library(jiebaRD)
+library(jiebaR) #中文斷詞 
+library(RColorBrewer)
+library(wordcloud) #產生文字雲
+
+library(tidytext)
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(tidyr)
+```
+
+```{r}
+#因為mac編碼問題讀入csv檔案會較麻煩，所以讀入XML
+
+library(readxl)
+臉部防曬 <- read_excel("~/Desktop/各品項爬蟲資料/臉部防曬.xlsx")
+保養面膜 <- read_excel("~/Desktop/各品項爬蟲資料/保養面膜.xlsx")
+篩紅爬蟲<- read_excel("~/Desktop/各品項爬蟲資料/篩紅爬蟲.xlsx")
+唇膏爬蟲 <- read_excel("~/Desktop/各品項爬蟲資料/唇膏爬蟲.xlsx")
+睫毛爬蟲 <- read_excel("~/Desktop/各品項爬蟲資料/睫毛爬蟲.xlsx")
+```
+
+
+```{r}
+#讀取label
+sunscreen_label <-臉部防曬$label
+mask_label <-保養面膜$label
+cheek_label <-篩紅爬蟲$label
+Lip_label <-唇膏爬蟲$label
+mascara_label<-睫毛爬蟲$label
+
+#以頓號隔開
+sunscreen_label <-strsplit(sunscreen_label,split="、",fixed=T)  
+mask_label <-strsplit(mask_label,split="、",fixed=T)  
+cheek_label <-strsplit(cheek_label,split="、",fixed=T)  
+Lip_label <-strsplit(Lip_label,split="、",fixed=T)  
+mascara_label <-strsplit(mascara_label,split="、",fixed=T)  
+```
+
+
+```{r}
+#-------------------------------------
+
+#文字雲sunscreen_label＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+freqFrame = as.data.frame(table(unlist(sunscreen_label)))
+
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+par(family=("Heiti TC Light"))
+
+wordcloud(freqFrame$Var1,freqFrame$Freq,
+          scale=c(5,0.5),min.freq=10,max.words=50,
+          random.order=FALSE, random.color=TRUE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+
+
+```
+臉部防曬
+
+```{r}
+#文字雲mask_label＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+freqFrame = as.data.frame(table(unlist(mask_label)))
+
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+par(family=("Heiti TC Light"))
+
+wordcloud(freqFrame$Var1,freqFrame$Freq,
+          scale=c(5,0.5),min.freq=10,max.words=50,
+          random.order=FALSE, random.color=TRUE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+
+```
+保養面膜
+
+```{r}
+#文字雲cheek_label＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+freqFrame = as.data.frame(table(unlist(cheek_label)))
+
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+par(family=("Heiti TC Light"))
+
+wordcloud(freqFrame$Var1,freqFrame$Freq,
+          scale=c(5,0.5),min.freq=10,max.words=50,
+          random.order=FALSE, random.color=TRUE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+```
+篩紅
+
+```{r}
+#文字雲Lip_label＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+freqFrame = as.data.frame(table(unlist(Lip_label)))
+
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+par(family=("Heiti TC Light"))
+
+wordcloud(freqFrame$Var1,freqFrame$Freq,
+          scale=c(5,0.5),min.freq=10,max.words=50,
+          random.order=FALSE, random.color=TRUE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+```
+唇膏
+
+```{r}
+#文字雲mascara_label＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+freqFrame = as.data.frame(table(unlist(mascara_label)))
+
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+par(family=("Heiti TC Light"))
+
+wordcloud(freqFrame$Var1,freqFrame$Freq,
+          scale=c(5,0.5),min.freq=10,max.words=50,
+          random.order=FALSE, random.color=TRUE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+
+
+```
+睫毛爬蟲
