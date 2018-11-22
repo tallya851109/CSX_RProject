@@ -45,6 +45,6 @@
 
 連結：
 
-https://tallya851109.github.io/CSX_RProject/week6_7_8美妝產品分析/label文字雲.html
+https://tallya851109.github.io/CSX_RProject/week6_7_8/label文字雲.html
 
-https://tallya851109.github.io/CSX_RProject/week6_7_8美妝產品分析/各品項數據分群.html
+https://tallya851109.github.io/CSX_RProject/week6_7_8/各品項數據分群.html
