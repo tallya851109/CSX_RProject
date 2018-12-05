@@ -22,7 +22,7 @@
 https://edition.cnn.com/2018/12/03/politics/china-us-trump-xi-deal-intl/index.html
 
 NER程式：
-https://tallya851109.github.io/CSX_RProject/week__12/w12程式.html
+https://tallya851109.github.io/CSX_RProject/week_12/w12程式.html
 
 
 
