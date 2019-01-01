@@ -1,0 +1,181 @@
+# packages
+library(readtext)
+library(stringr)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(cluster)
+library(xtable)
+library(car)
+library(lattice)
+
+# Read＃所有txt讀進來
+poker<-readtext("D:/_PROJECT_/POKER_660/*.txt")    #Windows    
+#poker<-readtext("~/Desktop/POKER/*.txt")          #iOS
+#str(poker)
+#poker$text[1]
+
+#分局＃切割
+#help('strsplit')
+#strsplit(poker$text,"\n\n\n\n", fixed = TRUE,useBytes = TRUE)
+#合併所有txt內賽局
+u<-unlist(strsplit(poker$text,"\n\n\n\n", fixed = TRUE,useBytes = TRUE))
+length(u)
+
+#*** SUMMARY ***分割 ------------
+
+game<-lapply(u,function(xi)unlist(strsplit(xi,"\n*** SUMMARY ***", fixed = TRUE,useBytes = TRUE)))
+nosum= list()
+
+#*** SUMMARY ***分割後取上半部分 ------------
+game_nosum= lapply(game, function(x){append(nosum, x[1])})
+
+nosum_new= unlist(lapply(game, function(x){append(nosum, x[1])}))
+nosum_new<-lapply(nosum_new,function(xi)unlist(strsplit(xi,"posts small blind", fixed = TRUE,useBytes = TRUE)))
+nosum_new<-lapply(nosum_new,function(xi)unlist(strsplit(xi,"\n*** TURN ***", fixed = TRUE,useBytes = TRUE)))
+
+#str(game_nosum)
+
+#截出posts small blind、*** FLOP ***、*** TURN *** ------------
+game_nosum=unlist(game_nosum)
+game_nosum<-lapply(game_nosum,function(xi)unlist(strsplit(xi,"posts small blind", fixed = TRUE,useBytes = TRUE)))
+
+game_nosum<-lapply(game_nosum,function(xi)unlist(strsplit(xi,"\n*** FLOP ***", fixed = TRUE,useBytes = TRUE)))
+
+game_nosum<-lapply(game_nosum,function(xi)unlist(strsplit(xi,"\n*** TURN ***", fixed = TRUE,useBytes = TRUE)))
+
+#game_nosum[1]
+
+#-----------hole card--人名次數（有玩的局數）---------
+poker_name <- c("bigruboss69", "przemol", "sergbest2005", "spadevalet", "pomkaPWNZ", "ChikoKz740", "Donkey84Kong",
+                "PerkeoX", "yanisarais", "daani.p23")
+gamelist=list() 
+
+for (q in poker_name) {#抓人名q: 出現次數
+  holecard_nb= lapply(game_nosum,function(x){grep(paste0(q,": "),x[2])})  
+  holecard_nb= game_nosum[which(holecard_nb==1)]  
+  k<-length(holecard_nb)
+  gamelist=append(gamelist,k) }
+
+#---------flop---人名次數（有玩到flop的局數）--------------
+floplist=list() 
+for (q in poker_name){
+  flop_nb= lapply(game_nosum,function(x){grep(paste0(q,": "),x[3])})  
+  flop_nb= game_nosum[which(flop_nb==1)]  
+  a<-length(flop_nb)
+  floplist=append(floplist,a)}
+
+#---------hole card--folds退出數-----------------
+Hfoldlist=list() 
+for (q in poker_name){
+  Hfold_nb= lapply(game_nosum,function(x){grep(paste0(q,": folds"),x[2])})  
+  Hfold_nb= game_nosum[which(Hfold_nb==1)]  
+  a<-length(Hfold_nb)
+  Hfoldlist=append(Hfoldlist,a)}
+
+#-----------flop----folds退出數-----------
+Ffoldlist=list() 
+for (q in poker_name){
+  Ffold_nb= lapply(game_nosum,function(x){grep(paste0(q,": folds"),x[3])})  
+  Ffold_nb= game_nosum[which(Ffold_nb==1)]  
+  a<-length(Ffold_nb)
+  Ffoldlist=append(Ffoldlist,a)}
+
+#------flop換行切割
+only_flop= list()
+only_flop= lapply(game_nosum, function(x){append(only_flop, x[3])})
+#str(only_flop)
+flopspl<-lapply(only_flop,function(xi){unlist(strsplit(unlist(xi),"\n", fixed = TRUE,useBytes = TRUE))})
+#flopspl
+#str(flopspl)
+
+#------flop有raises
+#reraise in flop
+other_BR_nb= list()
+F_raises_nb= list()
+for (q in poker_name){
+  flop_nb= lapply(game_nosum,function(x){grep(paste0(q,": "),x[3])})  #玩家有玩到flop (logical)
+  flop_nb= game_nosum[which(flop_nb==1)]  #玩家有玩到flop全局資料
+  only_flop= list()
+  only_flop= unlist(lapply(flop_nb, function(x){append(only_flop, x[3])})) #玩家有玩到flop的flop資料
+  #以玩家切割
+  player_split =lapply(only_flop,function(xi)unlist(strsplit(xi,q,fixed = TRUE,useBytes = TRUE)))
+  #扣掉最後part，找中間有bet或raises
+  flopmove= list()
+  flopmove= unlist(lapply(player_split, function(x){append(flopmove, unlist(x)[1:length(unlist(x))-1])}))
+  #抓bets、raises
+  nobet= flopmove[grep(': bets',flopmove,invert = T)]
+  all_nb=length(grep(': bets',flopmove))+length(grep(': raises',nobet))
+  other_BR_nb= append(other_BR_nb,all_nb)
+  
+  #-------------
+  #切動作
+  move_split = unlist(lapply(only_flop,function(xi)unlist(strsplit(xi,'\n',fixed = TRUE,useBytes = TRUE))))
+  raises_nb=length(grep(paste0(q,": raises"), move_split))
+  F_raises_nb= append(F_raises_nb,raises_nb)
+  
+}
+
+#------preflop
+preflop= list()
+preflop= unlist(lapply(nosum_new, function(x){append(preflop, x[2])}))
+
+preflop <-lapply(preflop,function(xi)unlist(strsplit(xi,"\n*** FLOP ***", fixed = TRUE,useBytes = TRUE)))
+
+length(preflop)
+#有玩的局
+#=============
+cbet2list=list() 
+cbet2_1list=list()
+for (q in poker_name){
+  pf= lapply(preflop ,function(x){grep(paste0(q,": "),x)}) #找有玩 
+  pf2= preflop[which(pf!='integer(0)')]#有玩
+  gr= lapply(pf2, function(x){grep(paste0(q,": raises"),x[1])})#preflop有raises邏輯式
+  gr2= pf2[which(gr==1)]#有的
+  k=lapply(gr2,function(xi)unlist(strsplit(xi[1],paste0(q,": raises"),fixed = TRUE,useBytes = TRUE)))#以玩家raise切割
+  r= lapply(k, function(x){grep('raises',last(x))})#最後一個raises之後
+  rLR_nb= which(r=='integer(0)')#沒有raises的
+  rpf=gr2[rLR_nb]#pre玩家是最後raises，完整pre+flop
+  a<-length(rpf)
+  #=========
+  rpf_bl= lapply(rpf, function(x){grep(paste0(q,": bets"),x[2])})
+  a_1=length(which(rpf_bl!='integer(0)'))
+  #=========
+  cbet2list=append(cbet2list,a )
+  cbet2_1list=append(cbet2_1list,a_1 )
+  #=========
+}
+
+#cbet
+cbet2list=unlist(cbet2list)
+cbet2_1list=unlist(cbet2_1list)
+CBiF= as.vector(cbet2_1list)/as.vector(cbet2list) #C-Bet in Flop
+
+#flop蓋牌率
+floplist=unlist(floplist)#有玩到flop的局數
+Ffoldlist=unlist(Ffoldlist)
+FtBiF= as.vector(Ffoldlist)/as.vector(floplist) #Fold to Bet in Flop
+
+#preflop蓋牌率
+gamelist=unlist(gamelist)#有preflop局數
+Hfoldlist=unlist(Hfoldlist)
+FtBiPF= as.vector(Hfoldlist)/as.vector(gamelist) #Fold to Bet in PreFlop
+
+#reraise
+other_BR_nb=unlist(other_BR_nb)
+F_raises_nb=unlist(F_raises_nb)
+RRiF= as.vector(F_raises_nb)/as.vector(other_BR_nb) #ReRaise in Flop
+Attributes= data.frame(Hfoldlist,gamelist,FtBiPF,Ffoldlist,floplist,FtBiF,F_raises_nb,other_BR_nb,RRiF,
+                       cbet2_1list,cbet2list,CBiF)
+row.names(Attributes)=  poker_name
+
+colnames(Attributes)= c('PreFlop蓋牌次數','參與PreFlop次數','PreFlop蓋牌率',
+                        'Flop蓋牌次數','參與Flop次數','Flop蓋牌率',
+                        'Flop中ReRaise次數','Flop中Move前有被Bet或Raise次數','Flop中ReRaise率',
+                        'PreFlop Aggressor Bet in Flop次數','PreFlop Aggressive次數','C-Bet in Flop率')
+Attributes
+View(Attributes)
+write.csv(Attributes,'屬性660.csv')
+
+
+
